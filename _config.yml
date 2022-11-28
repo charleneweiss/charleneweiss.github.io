@@ -1,3 +1,31 @@
 theme: minima
 title: Charlene Weiß
+author: Charlene Weiß
 description: PhD student in mathematics.
+tagline: Charlene Weiß, PhD student in mathematics.
+
+# avatar:
+
+# icon in the footer
+footer-links:
+  dribbble:
+  email: chweiss@math.upb.de
+  facebook:
+  flickr:
+  github: 
+  instagram:
+  linkedin: charleneweiss
+  pinterest:
+  rss: # ...
+  twitter: 
+  stackoverflow: 
+  youtube: 
+  googleplus: 
+
+url: https://charleneweiss.github.io
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
