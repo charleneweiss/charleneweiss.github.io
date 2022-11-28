@@ -4,7 +4,7 @@ title: About
 # banner: 
 ---
 
-# Hi, I'm Charlene Weiß, PhD Student in Mathematics at Paderborn University. 
+Hi, I am a PhD Student in Mathematics at Paderborn University under the supervision of [Kai-Uwe Schmidt](https://math.uni-paderborn.de/en/ag/dm).
 
 My main research interest is Algebraic Combinatorics. In particular, I study problems connected to coding theory and finite geometry. I am especially interested in codes and designs as subsets of association schemes and using method from linear and semidefinite programming to solve questions arising in combinatorics. 
 
