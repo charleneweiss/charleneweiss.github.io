@@ -3,10 +3,17 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }} – {{ site.description }}</title>
 
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    
   </head>
 
   <body>
@@ -21,11 +28,31 @@
           </div>
 
           <nav>
+            <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
+	    <!--<a href="{{ site.baseurl }}/files/cv.pdf">CV</a>-->
           </nav>
         </header>
       </div>
     </div>
+
+   {% if page.banner %}
+   <section class="banner">
+     <img src="{{ page.banner }}">
+     {% if page.banner-text %}
+     <h1 class="hero-text">{{ page.title }}</h1>
+     {% endif %}
+   </section>
+   {% elsif page.gradient %}
+   <section class="page-header-github">
+     <h1 class="project-name">{{ page.title }}</h1>
+     {% if page.github %}
+     <a href="{{ page.github }}" class="btn">View on GitHub</a>
+     {% endif %}
+   </section>
+   {% else %}
+   <div style="margin-bottom: 50px" class="nobanner"></div>
+   {% endif %}
 
     <div id="main" role="main" class="container">
       {{ content }}
