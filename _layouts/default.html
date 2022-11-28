@@ -1,70 +1,20 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }} – {{ site.description }}</title>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-    {% include meta.html %}
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-    
-  </head>
+  {%- include head.html -%}
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+    {%- include header.html -%}
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-	    <!--<a href="{{ site.baseurl }}/files/cv.pdf">CV</a>-->
-          </nav>
-        </header>
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
       </div>
-    </div>
+    </main>
 
-   {% if page.banner %}
-   <section class="banner">
-     <img src="{{ page.banner }}">
-     {% if page.banner-text %}
-     <h1 class="hero-text">{{ page.title }}</h1>
-     {% endif %}
-   </section>
-   {% elsif page.gradient %}
-   <section class="page-header-github">
-     <h1 class="project-name">{{ page.title }}</h1>
-     {% if page.github %}
-     <a href="{{ page.github }}" class="btn">View on GitHub</a>
-     {% endif %}
-   </section>
-   {% else %}
-   <div style="margin-bottom: 50px" class="nobanner"></div>
-   {% endif %}
+    {%- include footer.html -%}
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-        
   </body>
+
 </html>
