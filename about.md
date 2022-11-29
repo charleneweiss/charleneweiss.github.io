@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-# banner: 
+permalink: /about/
 ---
 
 Hi, I am a PhD Student in Mathematics at Paderborn University under the supervision of [Kai-Uwe Schmidt](https://math.uni-paderborn.de/en/ag/dm). 
