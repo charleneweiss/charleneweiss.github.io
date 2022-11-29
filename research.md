@@ -14,11 +14,11 @@ permalink: /research/
 ## Theses
 
 - *Linear programming bounds in classical association schemes*\
-  PhD thesis, submitted to Faculty of Computer Science, Electrical Engineering and Mathematics, Paderborn University, 2022.
+  PhD thesis, submitted to the Faculty of Computer Science, Electrical Engineering and Mathematics, Paderborn University, 2022.
 - *Bounds for codes in association schemes via semidefinite programming*\
-  master's thesis, 2017.
+  Master's thesis, Otto von Guericke University Magdeburg, Germany, 2017.
 - *Lee sequences and perfect sequences over the quaternions*\
-  bachelor's thesis, 2014.
+  Bachelor's thesis, Otto von Guericke University Magdeburg, Germany, 2014.
 
 ## Talks
 
