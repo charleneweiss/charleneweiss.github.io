@@ -6,6 +6,8 @@ permalink: /teaching/
 
 At Paderborn University, I was a teaching assistant for the following courses (all taught in German).
 
+- Lineare Algebra 2\
+  (for bachelor's students), winter 2022/2023.
 - Algebraische Kombinatorik---Assoziationsschemata\
   (for master's students), summer 2022.
 - Kombinatorik\
