@@ -7,17 +7,17 @@ permalink: /research/
 ## Publications and Preprints
 
 - *Packings and Steiner systems in polar spaces* (with Kai-Uwe Schmidt)\
-  submitted, [arXiv:2203.06709](https://arxiv.org/pdf/2203.06709.pdf), 2022.
+  [Combinatorial Theory](https://escholarship.org/uc/combinatorial_theory), accepted, [arXiv:2203.06709](https://arxiv.org/pdf/2203.06709.pdf), 2022.
 - *Existence of small ordered orthogonal arrays* (with Kai-Uwe Schmidt)\
   submitted, [arXiv:2109.01586](https://arxiv.org/pdf/2109.01586.pdf), 2021.
 
 ## Theses
 
-- *Linear programming bounds in classical association schemes*\
-  PhD thesis, submitted to the Institute of Mathematics, Paderborn University, 2022.
++ *Linear programming bounds in classical association schemes*\
+  PhD thesis, Paderborn University, 2023.
 - *Bounds for codes in association schemes via semidefinite programming*\
   Master's thesis, Otto von Guericke University Magdeburg, Germany, 2017.
-- *Lee sequences and perfect sequences over the quaternions*\
++ *Lee sequences and perfect sequences over the quaternions*\
   Bachelor's thesis, Otto von Guericke University Magdeburg, Germany, 2014.
 
 ## Talks
