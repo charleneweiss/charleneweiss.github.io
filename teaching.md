@@ -28,3 +28,5 @@ At Paderborn University, I was a teaching assistant for the following courses (a
   (for master's students), summer 2018.
 - Kombinatorik\
   (for master's students), winter 2017/2018.
+
+In 2020, the Faculty of Electronic Engineering, Computer Science and Mathematics of Paderborn University awarded me the [Weierstraß-Prize](https://www.eim.uni-paderborn.de/en/faculty/courses-of-study/studies/weierstrass-prize) for excellent teaching. 
