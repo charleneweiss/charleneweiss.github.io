@@ -19,6 +19,14 @@ permalink: /research/
   Master's thesis, Otto von Guericke University Magdeburg, Germany, 2017.
 + *Lee sequences and perfect sequences over the quaternions*\
   Bachelor's thesis, Otto von Guericke University Magdeburg, Germany, 2014.
+<ul>
+    <li>
+        <p>line 1</p>
+    </li>
+    <li>
+        <p>line 2</p>
+    </li>
+</ul>
 
 ## Talks
 
