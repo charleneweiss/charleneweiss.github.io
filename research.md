@@ -4,14 +4,14 @@ title: Research
 permalink: /research/
 ---
 
-## Publications and Preprints
+### Publications and Preprints
 
 - *Packings and Steiner systems in polar spaces* (with Kai-Uwe Schmidt)\
   [Combinatorial Theory](https://escholarship.org/uc/combinatorial_theory), accepted, [arXiv:2203.06709](https://arxiv.org/pdf/2203.06709.pdf), 2022.
 - *Existence of small ordered orthogonal arrays* (with Kai-Uwe Schmidt)\
   submitted, [arXiv:2109.01586](https://arxiv.org/pdf/2109.01586.pdf), 2021.
 
-## Theses
+### Theses
 
 + *Linear programming bounds in classical association schemes*\
   PhD thesis, Paderborn University, Germany, 2023.
@@ -21,7 +21,7 @@ permalink: /research/
   Bachelor's thesis, Otto von Guericke University Magdeburg, Germany, 2014.
 
 
-## Talks
+### Talks
 
 - *Packings and Steiner systems in polar spaces*\
   Colloquium on Combinatorics, Paderborn, Germany, 2022.
