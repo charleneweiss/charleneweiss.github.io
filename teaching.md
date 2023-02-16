@@ -6,7 +6,7 @@ permalink: /teaching/
 
 At Paderborn University, I was a teaching assistant for several courses (all taught in German), see below. 
 
-In 2020, the Faculty of Electronic Engineering, Computer Science and Mathematics of Paderborn University awarded me the [Weierstraß-Prize](https://www.eim.uni-paderborn.de/en/faculty/courses-of-study/studies/weierstrass-prize) for excellent teaching. 
+In 2020, the Faculty of Electronic Engineering, Computer Science and Mathematics of Paderborn University awarded me the [Weierstraß-Prize for excellent teaching](https://www.eim.uni-paderborn.de/en/faculty/courses-of-study/studies/weierstrass-prize). 
 
 - Lineare Algebra 2 (for bachelor's students), winter 2022/2023.
 - Algebraische Kombinatorik---Assoziationsschemata (for master's students), summer 2022.
