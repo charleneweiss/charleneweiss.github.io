@@ -24,7 +24,7 @@ permalink: /research/
 ### Talks
 
 - *Linear programming bounds in classical association schemes*\
-  PhD defense, Paderborn, Germany, 2023.
+  PhD defense, Paderborn, Germany, Feb 2023.
 - *Packings and Steiner systems in polar spaces*\
   Colloquium on Combinatorics, Paderborn, Germany, Nov 2022.
 - *The linear programming bounds in classical association schemes*\
