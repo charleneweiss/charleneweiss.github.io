@@ -5,3 +5,32 @@ permalink: /cv/
 ---
 
 A complete CV is available on request.
+
+## Education
+____
+- **PhD in Mathematics** (with distinction),
+ <span style="color:gray">Feb 2023</span>\
+Paderborn University, Germany
+
+- **Master of Science in Mathematics** (with distinction),
+ <span style="color:gray">Sept 2017</span>\
+Otto von Guericke University Magdeburg, Germany
+
+- **ERASMUS+ exchange semester**,
+ <span style="color:gray">Aug--Dec 2015</span>\
+NTNU Trondheim, Norway
+
+- **Bachelor of Science in Mathematics** (with distinction),
+ <span style="color:gray">Sept 2014</span>\
+Otto von Guericke University Magdeburg, Germany
+
+## Service
+____
+Since February 2023 I have been the [equal opportunities officer](https://www.eim.uni-paderborn.de/en/faculty/faculty/organisation/equal-opportunities-officer) of the Faculty of Electronic Engineering, Compute Science and Mathematics at Paderborn University. 
+
+From 10/2020 til 09/2022, I organized the [Lernzentrum Mathematik](https://math.uni-paderborn.de/en/support-in-your-math-studies) together with [Lara Gildehaus](https://fddm.uni-paderborn.de/personen/arbeitsgruppen/ag-liebendoerfer/details/78771), which is a learning center that employs student assistants and offers support to mathematics students and preservice higher secondary teachers of mathematics.
+ 
+From 03/2018 til 09/2020, I was part of the team for public relations at the Department of Mathematics, which organizes an open house to advertise mathematics and gives talks to high school students interested in studying mathematics. 
+Moreover, I have been a mentor in the program [perspEktIve M](https://www.eim.uni-paderborn.de/en/faculty/courses-of-study/studies/mentoring-program), which addresses female students at our faculty who are interested in research and doctoral studies.
+ 
+I also was a member in hiring committees for professors and in the student-assitants-committee of the Department of Mathematics.

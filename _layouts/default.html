@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+    {% if page.use_math %}
+    {% include mathjax_support.html %}
+    {% endif %}
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -21,17 +24,17 @@
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
-          <div class="site-info">
+	  <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
+
 
           <nav>
             <a href="{{ site.baseurl }}/">Home</a>
             <a href="{{ site.baseurl }}/research">Research</a>
             <a href="{{ site.baseurl }}/cv">CV</a>
             <a href="{{ site.baseurl }}/teaching">Teaching</a>
-            <a href="{{ site.baseurl }}/misc">Misc</a>
             <a href="{{ site.baseurl }}/contact">Contact</a>
           </nav>
         </header>
@@ -42,14 +45,13 @@
       {{ content }}
     </div>
 
+    <div class="wrapper">
     <div class="wrapper-footer">
-      <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}
+	<p>&copy; {{ site.time | date: '%Y' }} by {{ site.name }} <small> (she/her) </small> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Last Updated: 14 March 2023 </p>
         </footer>
-      </div>
     </div>
-
+    </div>
     {% include analytics.html %}
   </body>
 </html>
