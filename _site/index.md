@@ -12,15 +12,15 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## News
 
-*<span style="color:gray">Mar 23</span>: *Packings and Steiner systems in polar spaces* was published in [Combinatorial Theory](https://escholarship.org/uc/item/83g3149p).
+<span style="color:gray">Mar 23</span>: *Packings and Steiner systems in polar spaces* was published in [Combinatorial Theory](https://escholarship.org/uc/item/83g3149p).
 
-*<span style="color:gray">Feb 23</span>: I defended my PhD thesis at Paderborn University.
+<span style="color:gray">Feb 23</span>: I defended my PhD thesis at Paderborn University.
 
 ## Travel & Talks
 
-*<span style="color:gray">Jun 23</span>: I will give a talk at the [Oberseminar Groups and Geometry](https://www.math.uni-bielefeld.de/groupsgeometry/seminar.php?ID=141) in Bielefeld.
+<span style="color:gray">Jun 23</span>: I will give a talk at the [Oberseminar Groups and Geometry](https://www.math.uni-bielefeld.de/groupsgeometry/seminar.php?ID=141) in Bielefeld.
 
-*<span style="color:gray">Apr 23</span>: I will attend the Dagstuhl seminar [Pushing the Limits of Computational Combinatorial Constructions](https://www.dagstuhl.de/de/seminars/seminar-calendar/seminar-details/23161).
+<span style="color:gray">Apr 23</span>: I will attend the Dagstuhl seminar [Pushing the Limits of Computational Combinatorial Constructions](https://www.dagstuhl.de/de/seminars/seminar-calendar/seminar-details/23161).
 
-*<span style="color:gray">Nov 22</span>: I gave a talk at [Kolkom](https://www.kolkom.de) about Steiner systems in polar spaces.
+<span style="color:gray">Nov 22</span>: I gave a talk at [Kolkom](https://www.kolkom.de) about Steiner systems in polar spaces.
 
