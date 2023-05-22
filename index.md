@@ -18,7 +18,7 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## Travel & Talks
 
-<span style="color:gray">Jun 23</span>: I will give a talk at the minisymposium  [Association Schemes and Related Algebras](https://sites.google.com/view/asra-minisymposium/home) at the [10th Slovenian Conference
+<span style="color:gray">Jun 23</span>: I will give a talk at the minisymposium  [Association Schemes and Related Algebras](https://sites.google.com/view/asra-minisymposium/home) hosted by the [10th Slovenian Conference
 on Graph Theory](https://sicgt.si/).
 
 <span style="color:gray">Jun 23</span>: I will give a talk at the [Oberseminar Groups and Geometry](https://www.math.uni-bielefeld.de/groupsgeometry/seminar.php?ID=141) in Bielefeld.
