@@ -10,6 +10,8 @@ In 2020, the Faculty of Electronic Engineering, Computer Science and Mathematics
 <br/><br/>
 Taught exercise courses:
 
+- Lineare Algebra für Informatiker <span style="color:gray">(for bachelor's students, SoSe 2023).</span>
+
 - Lineare Algebra 2 <span style="color:gray">(for bachelor's students, WiSe 2022/2023).</span>
 
 - Algebraische Kombinatorik---Assoziationsschemata <span style="color:gray">(for master's students, SoSe 2022).</span>
