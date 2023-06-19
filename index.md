@@ -12,7 +12,7 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## News
 
-<span style="color:gray">Jun 23</span>: The paper  *Existence of small ordered orthogonal arrays* was published in [J. Combin. Des. ](https://doi.org/10.1002/jcd.21903).
+<span style="color:gray">Jun 23</span>: The paper  *Existence of small ordered orthogonal arrays* was published in [Journal of Combinatorial Designs](https://doi.org/10.1002/jcd.21903).
 
 <span style="color:gray">Mar 23</span>: The paper  *Packings and Steiner systems in polar spaces* was published in [Combinatorial Theory](https://escholarship.org/uc/item/83g3149p).
 
