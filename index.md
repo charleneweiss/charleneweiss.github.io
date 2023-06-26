@@ -20,7 +20,7 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## Travel & Talks
 
-<span style="color:gray">July 23</span>: I will give a talk at [RICCOTA2023]((https://riccota2023.math.uniri.hr)).
+<span style="color:gray">July 23</span>: I will give a talk at [RICCOTA2023](https://riccota2023.math.uniri.hr).
 
 <span style="color:gray">Jun 23</span>: I will give a talk at the minisymposium  [Association Schemes and Related Algebras](https://sites.google.com/view/asra-minisymposium/home) hosted by the [10th Slovenian Conference
 on Graph Theory](https://sicgt.si/).
