@@ -58,6 +58,9 @@ Bachelor's thesis, Otto von Guericke University Magdeburg, Germany, 2014.
 ____
 
 *Packings and Steiner systems in polar spaces*\
+  <span style="color:gray">10th Slovenian Conference on Graph Theory, Kranjska Gora, Slovenia, Jun 2023.</span>
+
+*Packings and Steiner systems in polar spaces*\
   <span style="color:gray">Colloquium on Combinatorics, Paderborn, Germany, Nov 2022.</span>
 
 *The linear programming bounds in classical association schemes*\
