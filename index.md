@@ -19,12 +19,10 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 <span style="color:gray">Feb 23</span>: I defended my [PhD thesis](https://digital.ub.uni-paderborn.de/doi/10.17619/UNIPB/1-1672) at Paderborn University.
 
 ## Travel & Talks
+RICCOTA2023
+<span style="color:gray">July 23</span>: I will give a talk at [RICCOTA2023]((https://riccota2023.math.uniri.hr)).
 
 <span style="color:gray">Jun 23</span>: I will give a talk at the minisymposium  [Association Schemes and Related Algebras](https://sites.google.com/view/asra-minisymposium/home) hosted by the [10th Slovenian Conference
 on Graph Theory](https://sicgt.si/).
 
-<span style="color:gray">Jun 23</span>: I will give a talk at the [Oberseminar Groups and Geometry](https://www.math.uni-bielefeld.de/groupsgeometry/seminar.php?ID=141) in Bielefeld.
-
 <span style="color:gray">Apr 23</span>: I attended the Dagstuhl seminar [Pushing the Limits of Computational Combinatorial Constructions](https://www.dagstuhl.de/de/seminars/seminar-calendar/seminar-details/23161).
-
-<span style="color:gray">Nov 22</span>: I gave a talk at [Kolkom](https://www.kolkom.de) about Steiner systems in polar spaces.
