@@ -64,7 +64,7 @@ ____
   <span style="color:gray">Colloquium on Combinatorics, Paderborn, Germany, Nov 2022.</span>
 
 *The linear programming bounds in classical association schemes*\
-  <span style="color:gray">Finite Geometries---Sixth Irsee Conference, Irsee, Germany, Sept 2022.</span>
+  <span style="color:gray">Finite Geometries---Sixth Irsee Conference, Irsee, Germany, Sept 2022.</span>\
   (Invitation-only conference)
 
 *The linear programming bounds in classical association schemes*\
