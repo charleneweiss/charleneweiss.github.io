@@ -65,6 +65,7 @@ ____
 
 *The linear programming bounds in classical association schemes*\
   <span style="color:gray">Finite Geometries---Sixth Irsee Conference, Irsee, Germany, Sept 2022.</span>
+  (Invitation-only conference)
 
 *The linear programming bounds in classical association schemes*\
   <span style="color:gray">Algebraic Coding Theory Summer School---ACT22, Zurich, Switzerland, July 2022.</span>
