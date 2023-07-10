@@ -57,6 +57,9 @@ Bachelor's thesis, Otto von Guericke University Magdeburg, Germany, 2014.
 ## Talks
 ____
 
+*Existence of small ordered orthogonal arrays*\
+  <span style="color:gray">RICCOTA2023, Rijeka, Croatia, Jul 2023.</span>
+
 *Packings and Steiner systems in polar spaces*\
   <span style="color:gray">10th Slovenian Conference on Graph Theory, Kranjska Gora, Slovenia, Jun 2023.</span>
 
