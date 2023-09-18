@@ -19,7 +19,7 @@ A finite classical polar space of rank n consists of the totally isotropic subsp
 </details>
 
 **Existence of small ordered orthogonal arrays** (joint with Kai-Uwe Schmidt)\
-*J. Combin. Des.* (2023), 1–10.\
+*J. Combin. Des.* 31(9), 422-431, 2023.\
 [PDF](https://doi.org/10.1002/jcd.21903) &nbsp;&nbsp; [arXiv](https://arxiv.org/abs/2109.01586v2)
 <details>
 <summary>Abstract</summary>
