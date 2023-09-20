@@ -20,7 +20,7 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## Travel & Talks
 
-<span style="color:gray">Sept 23</span>: I will give a talk at the minisymposium *Combinatorial aspects of finite fields* hosted by the [DMV conference 2023]([https://riccota2023.math.uniri.hr](https://www.tu-ilmenau.de/dmv2023)) in Ilmenau, Germany.
+<span style="color:gray">Sept 23</span>: I will give a talk at the minisymposium *Combinatorial aspects of finite fields* hosted by the [DMV conference 2023](https://www.tu-ilmenau.de/dmv2023) in Ilmenau, Germany.
 
 <span style="color:gray">July 23</span>: I will give a talk at [RICCOTA2023](https://riccota2023.math.uniri.hr).
 
