@@ -25,7 +25,7 @@ A finite classical polar space of rank n consists of the totally isotropic subsp
 <summary>Abstract</summary>
 <br>
 <span style="color:gray">
-A finite classical polar space of rank n consists of the totally isotropic subspaces of a finite vector space equipped with a nondegenerate form such that n is the maximal dimension of such a subspace. A t-Steiner system in a finite classical polar space of rank n is a collection Y of totally isotropic n-spaces such that each totally isotropic t-space is contained in exactly one member of Y. Nontrivial examples are known only for t=1 and t=n-1. We give an almost complete classification of such t-Steiner systems, showing that such objects can only exist in some corner cases. This classification result arises from a more general result on packings in polar spaces.
+A finite classical polar space of rank $n$ consists of the totally isotropic subspaces of a finite vector space equipped with a nondegenerate form such that n is the maximal dimension of such a subspace. A t-Steiner system in a finite classical polar space of rank n is a collection Y of totally isotropic n-spaces such that each totally isotropic t-space is contained in exactly one member of Y. Nontrivial examples are known only for t=1 and t=n-1. We give an almost complete classification of such t-Steiner systems, showing that such objects can only exist in some corner cases. This classification result arises from a more general result on packings in polar spaces.
 </span>
 </details>
 
