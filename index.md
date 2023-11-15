@@ -1,5 +1,5 @@
-Hi! I am a postdoctoral researcher in mathematics at Paderborn University in the group [discrete mathematics of Kai-Uwe Schmidt](https://math.uni-paderborn.de/en/ag/dm). 
-I earned my doctorate from Paderborn University under the supervision of Kai-Uwe Schmidt. 
+Hi! I am a postdoctoral researcher in discrete mathematics at Paderborn University, working in the collaborative research center [Integral Structures in Geometry and Representation Theory](https://trr358.math.uni-bielefeld.de/Pages/aboutUs), which is funded by the [DFG](https://www.dfg.de/en/index.jsp) (German Research Foundation).
+I earned my doctorate from Paderborn University under the supervision of [Kai-Uwe Schmidt](https://math.uni-paderborn.de/en/ag/dm/?cHash=49e3a4ac0c474af67ece490d7b6d9ec4).
 
 Previously, I obtained my bachelor’s and master’s degree in Mathematics (both with a minor in Physics) at Otto von Guericke University Magdeburg, Germany. 
 During my master's studies, I was an exchange student at NTNU Trondheim, Norway.
@@ -12,6 +12,8 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## News
 
+<span style="color:gray">Nov 23</span>: My preprint [*Nontrivial $t$-designs in polar spaces exist for all $t$*](https://arxiv.org/abs/2311.08288) is on arXiv.
+
 <span style="color:gray">Jun 23</span>: The paper  *Existence of small ordered orthogonal arrays* was published in [Journal of Combinatorial Designs](https://doi.org/10.1002/jcd.21903).
 
 <span style="color:gray">Mar 23</span>: The paper  *Packings and Steiner systems in polar spaces* was published in [Combinatorial Theory](https://escholarship.org/uc/item/83g3149p).
@@ -20,9 +22,9 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## Travel & Talks
 
-<span style="color:gray">Oct 23</span>: I will give a talk in the [Oberseminar Groups and Geometry](https://www.math.uni-bielefeld.de/groupsgeometry/seminar.php?ID=156) at Bielefeld University, Germany.
+<span style="color:gray">Jan 24</span>: I will give a talk in the [Oberseminar Groups and Geometry](https://www.math.uni-bielefeld.de/groupsgeometry/seminar.php?ID=156) at Bielefeld University, Germany.
 
-~~<span style="color:gray">Sept 23</span>: I will give a talk at the minisymposium *Combinatorial aspects of finite fields* hosted by the [DMV conference 2023](https://www.tu-ilmenau.de/dmv2023) in Ilmenau, Germany.~~
+<span style="color:gray">Dec 23</span>: I am an invited speaker for the 1-day-colloquium in memory of Frédéric Vanhove at Ghent University, Belgium.
 
 <span style="color:gray">July 23</span>: I will give a talk at [RICCOTA2023](https://riccota2023.math.uniri.hr).
 
