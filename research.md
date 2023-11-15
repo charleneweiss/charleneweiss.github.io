@@ -7,6 +7,17 @@ permalink: /research/
 ## Publications and Preprints
 ____
 
+**Nontrivial t-designs in polar spaces exist for all t**\
+preprint.\
+[arXiv](https://arxiv.org/abs/2311.08288)
+<details>
+<summary>Abstract</summary>
+<br>
+<span style="color:gray">
+A finite classical polar space of rank n consists of the totally isotropic subspaces of a finite vector space over 𝔽p equipped with a nondegenerate form such that n is the maximal dimension of such a subspace. A t-(n,k,λ) design in a finite classical polar space of rank n is a collection Y of totally isotropic k-spaces such that each totally isotropic t-space is contained in exactly λ members of Y. Nontrivial examples are currently only known for t≤2. We show that t-(n,k,λ) designs in polar spaces exist for all t and p provided that k>21/2t and n is sufficiently large enough. The proof is based on a probabilistic method by Kuperberg, Lovett, and Peled, and it is thus nonconstructive.
+</span>
+</details>
+
 **Packings and Steiner systems in polar spaces** (joint with Kai-Uwe Schmidt)\
 *Combinatorial Theory*, 3(1), 2023.\
 [PDF](https://escholarship.org/uc/item/83g3149p#main) &nbsp;&nbsp; [arXiv](https://arxiv.org/abs/2203.06709v2)
