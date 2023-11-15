@@ -7,14 +7,14 @@ permalink: /research/
 ## Publications and Preprints
 ____
 
-**Nontrivial t-designs in polar spaces exist for all t**\
+**Nontrivial $t$-designs in polar spaces exist for all $t$**\
 preprint.\
 [arXiv](https://arxiv.org/abs/2311.08288)
 <details>
 <summary>Abstract</summary>
 <br>
 <span style="color:gray">
-A finite classical polar space of rank n consists of the totally isotropic subspaces of a finite vector space over 𝔽p equipped with a nondegenerate form such that n is the maximal dimension of such a subspace. A t-(n,k,λ) design in a finite classical polar space of rank n is a collection Y of totally isotropic k-spaces such that each totally isotropic t-space is contained in exactly λ members of Y. Nontrivial examples are currently only known for t≤2. We show that t-(n,k,λ) designs in polar spaces exist for all t and p provided that k>21/2t and n is sufficiently large enough. The proof is based on a probabilistic method by Kuperberg, Lovett, and Peled, and it is thus nonconstructive.
+A finite classical polar space of rank $n$ consists of the totally isotropic subspaces of a finite vector space over $\mathbb{F}_p$ equipped with a nondegenerate form such that $n$ is the maximal dimension of such a subspace. A $t$-$(n,k,\lambda)$ design in a finite classical polar space of rank $n$ is a collection $Y$ of totally isotropic $k$-spaces such that each totally isotropic $t$-space is contained in exactly $\lambda$ members of $Y$. Nontrivial examples are currently only known for $t\leq 2$. We show that $t$-$(n,k,\lambda)$ designs in polar spaces exist for all $t$ and $p$ provided that $k>21/2t$ and $n$ is sufficiently large enough. The proof is based on a probabilistic method by Kuperberg, Lovett, and Peled, and it is thus nonconstructive.
 </span>
 </details>
 
@@ -25,7 +25,7 @@ A finite classical polar space of rank n consists of the totally isotropic subsp
 <summary>Abstract</summary>
 <br>
 <span style="color:gray">
-A finite classical polar space of rank $n$ consists of the totally isotropic subspaces of a finite vector space equipped with a nondegenerate form such that n is the maximal dimension of such a subspace. A t-Steiner system in a finite classical polar space of rank n is a collection Y of totally isotropic n-spaces such that each totally isotropic t-space is contained in exactly one member of Y. Nontrivial examples are known only for t=1 and t=n-1. We give an almost complete classification of such t-Steiner systems, showing that such objects can only exist in some corner cases. This classification result arises from a more general result on packings in polar spaces.
+A finite classical polar space of rank $n$ consists of the totally isotropic subspaces of a finite vector space equipped with a nondegenerate form such that $n$ is the maximal dimension of such a subspace. A $t$-Steiner system in a finite classical polar space of rank $n$ is a collection $Y$ of totally isotropic $n$-spaces such that each totally isotropic $t$-space is contained in exactly one member of $Y$. Nontrivial examples are known only for $t=1$ and $t=n-1$. We give an almost complete classification of such $t$-Steiner systems, showing that such objects can only exist in some corner cases. This classification result arises from a more general result on packings in polar spaces.
 </span>
 </details>
 
@@ -52,7 +52,7 @@ PhD thesis, Paderborn University, Germany, 2023.\
 <summary>Abstract</summary>
 <br>
 <span style="color:gray">
-Digital communications relies heavily on the usage of different types of codes. Prominent codes nowadays are rank-metric codes and subspace codes&mdash;the q-analogs of binary codes and binary codes with constant weight. All these codes can be viewed as subsets of classical association schemes. A central coding-theoretic problem is to derive upper bounds for the size of codes. This thesis investigates Delsarte's powerful linear program whose optimum is precisely such a bound for codes in association schemes. The linear programs for binary codes and binary constant-weight codes have been extensively studied since the 1970s, but their optimum is still unknown. We determine in a unified way the optimum of the linear program in several ordinary q-analogs as well as in their affine counterparts. In particular, bounds and constructions for codes in polar spaces are established, where the bounds are sharp up to a constant factor in many cases. Moreover, based on these results, an almost complete classification of Steiner systems in polar spaces is provided by showing that they could only exist in some corner cases. 
+Digital communications relies heavily on the usage of different types of codes. Prominent codes nowadays are rank-metric codes and subspace codes&mdash;the $q$-analogs of binary codes and binary codes with constant weight. All these codes can be viewed as subsets of classical association schemes. A central coding-theoretic problem is to derive upper bounds for the size of codes. This thesis investigates Delsarte's powerful linear program whose optimum is precisely such a bound for codes in association schemes. The linear programs for binary codes and binary constant-weight codes have been extensively studied since the 1970s, but their optimum is still unknown. We determine in a unified way the optimum of the linear program in several ordinary $q$-analogs as well as in their affine counterparts. In particular, bounds and constructions for codes in polar spaces are established, where the bounds are sharp up to a constant factor in many cases. Moreover, based on these results, an almost complete classification of Steiner systems in polar spaces is provided by showing that they could only exist in some corner cases. 
 </span>
 </details>
 
