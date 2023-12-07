@@ -24,7 +24,7 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 <span style="color:gray">Jan 24</span>: I will give a talk in the [Oberseminar Groups and Geometry](https://www.math.uni-bielefeld.de/groupsgeometry/seminar.php?ID=156) at Bielefeld University, Germany.
 
-<span style="color:gray">Dec 23</span>: I am an invited speaker for the 1-day-colloquium in memory of Frédéric Vanhove at Ghent University, Belgium.
+<span style="color:gray">Dec 23</span>: I am an invited speaker for the 1-day-colloquium [On the mathematics of Frédéric Vanhove](https://cage.ugent.be/~aneri/CFV23) at Ghent University, Belgium.
 
 <span style="color:gray">July 23</span>: I will give a talk at [RICCOTA2023](https://riccota2023.math.uniri.hr).
 
