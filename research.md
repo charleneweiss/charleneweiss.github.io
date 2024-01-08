@@ -70,7 +70,7 @@ ____
 
 Invited talks are marked with \*.
 
-\* *Codes and Designs in Polar Spaces*\* \
+\* *Codes and Designs in Polar Spaces* \* \
   <span style="color:gray">On the mathematics of Frédéric Vanhove, Ghent, Belgium, Dec 2023.</span>
 
 *Existence of small ordered orthogonal arrays*\
