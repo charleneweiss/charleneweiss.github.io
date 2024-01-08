@@ -68,9 +68,9 @@ Bachelor's thesis, Otto von Guericke University Magdeburg, Germany, 2014.
 ## Talks
 ____
 
-Invited talks are marked with (I).
+Invited talks are marked with \*.
 
-(I) *Codes and Designs in Polar Spaces*\
+\* *Codes and Designs in Polar Spaces*\* \
   <span style="color:gray">On the mathematics of Frédéric Vanhove, Ghent, Belgium, Dec 2023.</span>
 
 *Existence of small ordered orthogonal arrays*\
