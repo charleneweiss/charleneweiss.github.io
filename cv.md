@@ -26,7 +26,7 @@ Otto von Guericke University Magdeburg, Germany
 
 ## Service
 ____
-Since February 2023 I have been the [equal opportunities officer](https://www.eim.uni-paderborn.de/en/faculty/faculty/organisation/equal-opportunities-officer) of the Faculty of Electrical Engineering, Computer Science and Mathematics at Paderborn University. 
+Since February 2023 I have been the [equal opportunities officer](https://www.eim.uni-paderborn.de/en/faculty/faculty/organisation/equal-opportunities-officer) of the Faculty of Computer Science, Electrical Engineering and Mathematics at Paderborn University. 
 
 From 10/2020 til 09/2022, I organized the [Lernzentrum Mathematik](https://math.uni-paderborn.de/en/support-in-your-math-studies) together with [Lara Gildehaus](https://fddm.uni-paderborn.de/personen/arbeitsgruppen/ag-liebendoerfer/details/78771), which is a learning center that employs student assistants and offers support to mathematics students and preservice higher secondary teachers of mathematics.
  
