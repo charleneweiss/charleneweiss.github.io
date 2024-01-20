@@ -6,7 +6,7 @@ permalink: /teaching/
 
 At Paderborn University, I was a teaching assistant for several courses (all taught in German), see below. 
 
-In 2020, the Faculty of Electronic Engineering, Computer Science and Mathematics of Paderborn University awarded me the [Weierstraß-Prize for excellent teaching](https://www.eim.uni-paderborn.de/en/faculty/courses-of-study/studies/weierstrass-prize/weierstrass-prize-2020). 
+In 2020, the Faculty of Electronic Engineering, Computer Science and Mathematics of Paderborn University awarded me the [Weierstraß-Prize for excellent teaching](https://www.eim.uni-paderborn.de/en/faculty/studies/weierstrass-prize/weierstrass-prize-2020). 
 <br/><br/>
 Taught exercise courses:
 
