@@ -40,6 +40,19 @@ We show that there exist ordered orthogonal arrays, whose sizes deviate from the
 </span>
 </details>
 
+### Edited Volumes
+
+**Pushing the Limits of Computational Combinatorial Constructions (Dagstuhl Seminar 23161)** (L. Moura, A. Nakic, P. Östergård, A. Wassermann, C. Weiß (Editors))\
+*Dagstuhl Reports* 13 (2023), no. 4, 40—57.\
+[PDF](https://doi.org/10.4230/DagRep.13.4.40)
+<details>
+<summary>Abstract</summary>
+<br>
+<span style="color:gray">
+This report documents the program and the outcomes of Dagstuhl Seminar 23161 "Pushing the Limits of Computational Combinatorial Constructions". In this Dagstuhl Seminar, we focused on computational methods for challenging problems in combinatorial construction. This includes algorithms for construction of combinatorial objects with prescribed symmetry, for isomorph-free exhaustive generation, and for combinatorial search. Examples of specific algorithmic techniques are tactical decomposition, the Kramer-Mesner method, algebraic methods, graph isomorphism software, isomorph-free generation, clique-finding methods, heuristic search, SAT solvers, and combinatorial optimization. There was an emphasis on problems involving graphs, designs and codes, also including topics in related fields such as finite geometry, graph decomposition, Hadamard matrices, Latin squares, and q-analogs of designs and codes.
+</span>
+</details>
+
 <br/>
 
 ## Theses
