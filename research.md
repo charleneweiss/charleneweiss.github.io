@@ -20,7 +20,7 @@ A finite classical polar space of rank $n$ consists of the totally isotropic sub
 
 **Packings and Steiner systems in polar spaces** (joint with Kai-Uwe Schmidt)\
 *Combinatorial Theory*, 3(1), 2023.\
-[PDF](https://escholarship.org/uc/item/83g3149p#main) &nbsp;&nbsp; [arXiv](https://arxiv.org/abs/2203.06709v2)
+[journal](https://escholarship.org/uc/item/83g3149p#main) &nbsp;&nbsp; [arXiv](https://arxiv.org/abs/2203.06709v2)
 <details>
 <summary>Abstract</summary>
 <br>
@@ -31,7 +31,7 @@ A finite classical polar space of rank $n$ consists of the totally isotropic sub
 
 **Existence of small ordered orthogonal arrays** (joint with Kai-Uwe Schmidt)\
 *J. Combin. Des.* 31(9), 422-431, 2023.\
-[PDF](https://doi.org/10.1002/jcd.21903) &nbsp;&nbsp; [arXiv](https://arxiv.org/abs/2109.01586v2)
+[journal](https://doi.org/10.1002/jcd.21903) &nbsp;&nbsp; [arXiv](https://arxiv.org/abs/2109.01586v2)
 <details>
 <summary>Abstract</summary>
 <br>
@@ -44,7 +44,7 @@ We show that there exist ordered orthogonal arrays, whose sizes deviate from the
 
 **Pushing the Limits of Computational Combinatorial Constructions (Dagstuhl Seminar 23161)** (L. Moura, A. Nakic, P. Östergård, A. Wassermann, C. Weiß (Editors))\
 *Dagstuhl Reports* 13 (2023), no. 4, 40—57.\
-[PDF](https://doi.org/10.4230/DagRep.13.4.40)
+[report](https://doi.org/10.4230/DagRep.13.4.40)
 <details>
 <summary>Abstract</summary>
 <br>
