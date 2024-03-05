@@ -8,7 +8,7 @@ A complete CV is available on request.
 
 ## Education
 ____
-- **PhD in Mathematics** (with distinction),
+- **Dr. rer. nat. in Mathematics** (with distinction),
  <span style="color:gray">Feb 2023</span>\
 Paderborn University, Germany
 
