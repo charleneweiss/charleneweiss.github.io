@@ -59,7 +59,7 @@ This report documents the program and the outcomes of Dagstuhl Seminar 23161 "Pu
 ____
 
 **Linear programming bounds in classical association schemes**\
-PhD thesis, Paderborn University, Germany, 2023.\
+Dissertation, Paderborn University, Germany, 2023.\
 [PDF](https://digital.ub.uni-paderborn.de/doi/10.17619/UNIPB/1-1672)
 <details>
 <summary>Abstract</summary>
