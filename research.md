@@ -84,7 +84,7 @@ ____
 (Invited talks are marked with \*.)
 
 *Existence of $t$-designs in polar spaces for all $t$*\
-  <span style="color:gray">, Combinatorial Constructions Conference (CCC), Dubrovnik, Croatia, Apr 2024.</span>
+  <span style="color:gray">Combinatorial Constructions Conference (CCC), Dubrovnik, Croatia, Apr 2024.</span>
 
 \* *Codes and Steiner Systems* \* \
   <span style="color:gray">Oberseminar Groups and Geometry, Bielefeld, Germany, Jan 2024.</span>
