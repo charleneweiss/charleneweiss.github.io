@@ -22,7 +22,7 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## Travel & Talks
 
-<span style="color:gray">Apr 24</span>: I will give a talk at [Combinatorics 2024](https://sites.google.com/view/combinatorics2024/home-page) in Carovigno (Br), Italy.
+<span style="color:gray">Jun 24</span>: I will give a talk at [Combinatorics 2024](https://sites.google.com/view/combinatorics2024/home-page) in Carovigno (Br), Italy.
 
 <span style="color:gray">Apr 24</span>: I will give a talk at [Combinatorial Constructions Conference (CCC)](https://web.math.pmf.unizg.hr/acco/meetings.php) in Dubrovnik, Croatia.
 
