@@ -22,6 +22,8 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## Travel & Talks
 
+<span style="color:gray">Apr 24</span>: I will give a talk at [Combinatorics 2024](https://sites.google.com/view/combinatorics2024/home-page) in Carovigno (Br), Italy.
+
 <span style="color:gray">Apr 24</span>: I will give a talk at [Combinatorial Constructions Conference (CCC)](https://web.math.pmf.unizg.hr/acco/meetings.php) in Dubrovnik, Croatia.
 
 <span style="color:gray">Jan 24</span>: I will give a talk in the [Oberseminar Groups and Geometry](https://www.math.uni-bielefeld.de/groupsgeometry/seminar.php?ID=156) at Bielefeld University, Germany.
@@ -29,6 +31,3 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 <span style="color:gray">Dec 23</span>: I am an invited speaker for the 1-day-colloquium [On the mathematics of Frédéric Vanhove](https://cage.ugent.be/~aneri/CFV23) at Ghent University, Belgium.
 
 <span style="color:gray">July 23</span>: I will give a talk at [RICCOTA2023](https://riccota2023.math.uniri.hr).
-
-<span style="color:gray">Jun 23</span>: I will give a talk at the minisymposium  [Association Schemes and Related Algebras](https://sites.google.com/view/asra-minisymposium/home) hosted by the [10th Slovenian Conference
-on Graph Theory](https://sicgt.si/).
