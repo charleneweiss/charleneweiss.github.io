@@ -83,6 +83,9 @@ ____
 
 (Invited talks are marked with \*.)
 
+*Existence of $t$-designs in polar spaces for all $t$*\
+  <span style="color:gray">Combinatorics 2024, Carovigno (Br), Italy, June 2024.</span>
+
 \* *Codes und Designs* \* \
   <span style="color:gray"> Department of Mathematics, Rostock University, Germany, May 2024.</span>
 
