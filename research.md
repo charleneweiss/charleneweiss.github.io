@@ -8,7 +8,7 @@ permalink: /research/
 ____
 
 **Nontrivial $t$-designs in polar spaces exist for all $t$**\
-preprint.\
+preprint, to appear in *Designs, Codes and Cryptography*.\
 [arXiv](https://arxiv.org/abs/2311.08288)
 <details>
 <summary>Abstract</summary>
