@@ -12,6 +12,8 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## News
 
+<span style="color:gray">Aug 24</span>: My paper [Nontrivial t-designs in polar spaces exist for all t](https://doi.org/10.1007/s10623-024-01471-1) was published in *Designs, Codes and Cryptography*.
+
 <span style="color:gray">Nov 23</span>: My preprint [Nontrivial t-designs in polar spaces exist for all t](https://arxiv.org/abs/2311.08288) is on arXiv.
 
 <span style="color:gray">Jun 23</span>: The paper  [Existence of small ordered orthogonal arrays](https://doi.org/10.1002/jcd.21903) was published in *Journal of Combinatorial Designs*.
