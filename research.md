@@ -8,13 +8,13 @@ permalink: /research/
 ____
 
 **Nontrivial $t$-designs in polar spaces exist for all $t$**\
-preprint, to appear in *Designs, Codes and Cryptography*.\
-[arXiv](https://arxiv.org/abs/2311.08288)
+*Des. Codes Cryptogr.* (2024).\
+[journal](https://doi.org/10.1007/s10623-024-01471-1) &nbsp;&nbsp; [arXiv](https://arxiv.org/abs/2311.08288)
 <details>
 <summary>Abstract</summary>
 <br>
 <span style="color:gray">
-A finite classical polar space of rank $n$ consists of the totally isotropic subspaces of a finite vector space over $\mathbb{F}_p$ equipped with a nondegenerate form such that $n$ is the maximal dimension of such a subspace. A $t$-$(n,k,\lambda)$ design in a finite classical polar space of rank $n$ is a collection $Y$ of totally isotropic $k$-spaces such that each totally isotropic $t$-space is contained in exactly $\lambda$ members of $Y$. Nontrivial examples are currently only known for $t\leq 2$. We show that $t$-$(n,k,\lambda)$ designs in polar spaces exist for all $t$ and $p$ provided that $k>\frac{21}{2}t$ and $n$ is sufficiently large enough. The proof is based on a probabilistic method by Kuperberg, Lovett, and Peled, and it is thus nonconstructive.
+A finite classical polar space of rank $n$ consists of the totally isotropic subspaces of a finite vector space over $\mathbb{F}_q$ equipped with a nondegenerate form such that $n$ is the maximal dimension of such a subspace. A $t$-$(n,k,\lambda)$ design in a finite classical polar space of rank $n$ is a collection $Y$ of totally isotropic $k$-spaces such that each totally isotropic $t$-space is contained in exactly $\lambda$ members of $Y$. Nontrivial examples are currently only known for $t\leq 2$. We show that $t$-$(n,k,\lambda)$ designs in polar spaces exist for all $t$ and $p$ provided that $k>\frac{21}{2}t$ and $n$ is sufficiently large enough. The proof is based on a probabilistic method by Kuperberg, Lovett, and Peled, and it is thus nonconstructive.
 </span>
 </details>
 
