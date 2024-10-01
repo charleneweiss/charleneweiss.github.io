@@ -17,9 +17,8 @@ Replace '...' by '@', '.', and '.' (in that order).
 
 **Address:**
 
-Room D2.339\
-Institute of Mathematics\
-Paderborn University\
-Warburger Strasse 100\
-33098 Paderborn\
+Faculty of Mathematics\
+Otto von Guericke University Magdeburg\
+Universitätsplatz 2\
+39106 Magdeburg\
 Germany
