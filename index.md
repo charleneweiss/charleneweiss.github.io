@@ -1,7 +1,7 @@
-Hi! I am a postdoctoral researcher in discrete mathematics at Paderborn University, working in the collaborative research center [Integral Structures in Geometry and Representation Theory](https://trr358.math.uni-bielefeld.de/Pages/aboutUs), which is funded by the [DFG](https://www.dfg.de/en/index.jsp) (German Research Foundation).
+Hi! I am currently a substitute professor for Geometry at Otto von Guericke University Magdeburg. Previously, I was a postdoctoral researcher in discrete mathematics at Paderborn University, working in the collaborative research center [Integral Structures in Geometry and Representation Theory](https://trr358.math.uni-bielefeld.de/Pages/aboutUs) funded by the [DFG](https://www.dfg.de/en/index.jsp) (German Research Foundation).
 I earned my doctorate from Paderborn University under the supervision of [Kai-Uwe Schmidt](https://math.uni-paderborn.de/en/ag/dm/?cHash=49e3a4ac0c474af67ece490d7b6d9ec4).
 
-Previously, I obtained my bachelor’s and master’s degree in Mathematics (both with a minor in Physics) at Otto von Guericke University Magdeburg, Germany. 
+I obtained my bachelor’s and master’s degree in Mathematics (both with a minor in Physics) at Otto von Guericke University Magdeburg, Germany. 
 During my master's studies, I was an exchange student at NTNU Trondheim, Norway.
 
 My main research lies within algebraic combinatorics. 
@@ -11,6 +11,8 @@ I am especially interested in codes and designs as subsets of association scheme
 Furthermore, I am passionate about promoting inclusivity and diversity in the academic community.
 
 ## News
+
+<span style="color:gray">Oct 24</span>: I have taken on a substitute professorship for Geometry at *Otto von Guericke University Magdeburg*.
 
 <span style="color:gray">Aug 24</span>: My paper [Nontrivial t-designs in polar spaces exist for all t](https://doi.org/10.1007/s10623-024-01471-1) was published in *Designs, Codes and Cryptography*.
 
