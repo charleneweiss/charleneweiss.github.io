@@ -22,8 +22,6 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 <span style="color:gray">Mar 23</span>: The paper  [Packings and Steiner systems in polar spaces](https://escholarship.org/uc/item/83g3149p) was published in *Combinatorial Theory*.
 
-<span style="color:gray">Feb 23</span>: I defended my [dissertation](https://digital.ub.uni-paderborn.de/doi/10.17619/UNIPB/1-1672) at Paderborn University.
-
 ## Travel & Talks
 
 <span style="color:gray">Jun 24</span>: I will give a talk at [Combinatorics 2024](https://sites.google.com/view/combinatorics2024/home-page) in Carovigno (Br), Italy.
