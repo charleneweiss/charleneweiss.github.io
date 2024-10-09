@@ -24,7 +24,7 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## Travel & Talks
 
-<span style="color:gray">June 25</span>: I am an invited plenary speaker at the [5th Pythagorean conference]([https://cage.ugent.be/~aneri/CFV23](https://cargo.wlu.ca/5thPythagorean/web.html)) in Kalamata, Greece.
+<span style="color:gray">June 25</span>: I am an invited plenary speaker at the [5th Pythagorean conference](https://cargo.wlu.ca/5thPythagorean/web.html) in Kalamata, Greece.
 
 <span style="color:gray">Jun 24</span>: I will give a talk at [Combinatorics 2024](https://sites.google.com/view/combinatorics2024/home-page) in Carovigno (Br), Italy.
 
