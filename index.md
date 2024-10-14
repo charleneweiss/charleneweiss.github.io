@@ -10,7 +10,7 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## News
 
-<span style="color:gray">Oct 24</span>: I have taken on a substitute professorship for Geometry at *Otto von Guericke University Magdeburg*.
+<span style="color:gray">Oct 24</span>: I have taken on a substitute professorship for Geometry at *Otto von Guericke University Magdeburg, Germany*.
 
 <span style="color:gray">Aug 24</span>: My paper [Nontrivial t-designs in polar spaces exist for all t](https://doi.org/10.1007/s10623-024-01471-1) was published in *Designs, Codes and Cryptography*.
 
