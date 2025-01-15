@@ -22,6 +22,8 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## Travel & Talks
 
+<span style="color:gray">June 25</span>: I am an invited speaker at the conference [TerwilligerFest - Combinatorics around the q-Onsager algebra](https://conferences.famnit.upr.si/event/32/overview) in Kranjska Gora, Slovenia.
+
 <span style="color:gray">June 25</span>: I am an invited plenary speaker at the [5th Pythagorean conference](https://cargo.wlu.ca/5thPythagorean/web.html) in Kalamata, Greece.
 
 <span style="color:gray">Jun 24</span>: I will give a talk at [Combinatorics 2024](https://sites.google.com/view/combinatorics2024/home-page) in Carovigno (Br), Italy.
@@ -29,6 +31,4 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 <span style="color:gray">May 24</span>: I will give an invited seminar talk at University of Rostock, Germany.
 
 <span style="color:gray">Apr 24</span>: I will give a talk at [Combinatorial Constructions Conference (CCC)](https://web.math.pmf.unizg.hr/acco/meetings.php) in Dubrovnik, Croatia.
-
-<span style="color:gray">Jan 24</span>: I will give an invited talk in the [Oberseminar Groups and Geometry](https://www.math.uni-bielefeld.de/groupsgeometry/seminar.php?ID=156) at Bielefeld University, Germany.
 
