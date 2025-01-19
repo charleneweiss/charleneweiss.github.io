@@ -2,6 +2,7 @@
     <img align="right" src="images/profile.png" alt="" width="300">
 </p>
 
+
 Hi! I am currently a substitute professor for Geometry at Otto von Guericke University Magdeburg. Previously, I was a postdoctoral researcher in discrete mathematics at Paderborn University, working in the collaborative research center [Integral Structures in Geometry and Representation Theory](https://trr358.math.uni-bielefeld.de/Pages/aboutUs) (which is funded by the [DFG—German Research Foundation](https://www.dfg.de/en/index.jsp)).
 I earned my doctorate from Paderborn University under the supervision of [Kai-Uwe Schmidt](https://math.uni-paderborn.de/en/ag/dm/?cHash=49e3a4ac0c474af67ece490d7b6d9ec4).
 
