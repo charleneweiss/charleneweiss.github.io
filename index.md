@@ -1,6 +1,7 @@
-<p float="right">
-    <img align="right" src="images/profile.png" alt="" width="300">
-</p>
+
+<div class="profile-picture-container">
+    <img align="right" src="/images/profile.png" class="profile-picture" width="300"/>
+</div>
 
 
 Hi! I am currently a substitute professor for Geometry at Otto von Guericke University Magdeburg. Previously, I was a postdoctoral researcher in discrete mathematics at Paderborn University, working in the collaborative research center [Integral Structures in Geometry and Representation Theory](https://trr358.math.uni-bielefeld.de/Pages/aboutUs) (which is funded by the [DFG—German Research Foundation](https://www.dfg.de/en/index.jsp)).
