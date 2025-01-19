@@ -1,6 +1,6 @@
 <img align="right" src="/images/profile.png" class="profile-picture" width="300"/>
 
-<p>
+
 Hi! I am currently a substitute professor for Geometry at Otto von Guericke University Magdeburg. Previously, I was a postdoctoral researcher in discrete mathematics at Paderborn University, working in the collaborative research center [Integral Structures in Geometry and Representation Theory](https://trr358.math.uni-bielefeld.de/Pages/aboutUs) (which is funded by the [DFG—German Research Foundation](https://www.dfg.de/en/index.jsp)).
 I earned my doctorate from Paderborn University under the supervision of [Kai-Uwe Schmidt](https://math.uni-paderborn.de/en/ag/dm/?cHash=49e3a4ac0c474af67ece490d7b6d9ec4).
 
@@ -10,7 +10,6 @@ During my master's studies, I was an exchange student at NTNU Trondheim, Norway.
 My research focuses on combinatorics, particularly on combinatorial problems related to design theory, coding theory, and finite geometry. I am especially interested in codes and designs as subsets of association schemes, and I like to use methods from optimization theory to address questions arising in combinatorics and related fields such as finite geometry.
 
 Furthermore, I am passionate about promoting inclusivity and diversity in the academic community.
-</p>
 
 ## News
 
