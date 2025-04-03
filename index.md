@@ -1,17 +1,17 @@
 <img align="right" src="/images/profile.png" class="profile-picture" width="300"/>
 
-
-Hi! I am currently a substitute professor for Geometry at Otto von Guericke University Magdeburg. Previously, I was a postdoctoral researcher in discrete mathematics at Paderborn University, working in the collaborative research center [Integral Structures in Geometry and Representation Theory](https://trr358.math.uni-bielefeld.de/Pages/aboutUs) (which is funded by the [DFG—German Research Foundation](https://www.dfg.de/en/index.jsp)).
+Hi! I am currently a postdoctoral researcher working with [Krystal Guo](https://krystalguo.com) at the University of Amsterdam, funded by the [DAAD–German Academic Exchange Service](https://www.daad.de/en/). Previously, I was a substitute professor for Geometry at Otto von Guericke University Magdeburg. Before that, I was a postdoctoral researcher in discrete mathematics at Paderborn University, where I was part of the collaborative research center [Integral Structures in Geometry and Representation Theory](https://trr358.math.uni-bielefeld.de/Pages/aboutUs), funded by the [DFG—German Research Foundation](https://www.dfg.de/en/index.jsp).
 I earned my doctorate from Paderborn University under the supervision of [Kai-Uwe Schmidt](https://math.uni-paderborn.de/en/ag/dm/?cHash=49e3a4ac0c474af67ece490d7b6d9ec4).
 
-I obtained my bachelor’s and master’s degree in Mathematics (both with a minor in Physics) at Otto von Guericke University Magdeburg, Germany. 
-During my master's studies, I was an exchange student at NTNU Trondheim, Norway.
+I obtained my bachelor’s and master’s degree in Mathematics (both with a minor in Physics) at Otto von Guericke University Magdeburg, Germany. During my master's studies, I was an exchange student at NTNU Trondheim, Norway.
 
 My research focuses on combinatorics, particularly on combinatorial problems related to design theory, coding theory, and finite geometry. I am especially interested in codes and designs as subsets of association schemes, and I like to use methods from optimization theory to address questions arising in combinatorics and related fields such as finite geometry.
 
 Furthermore, I am passionate about promoting inclusivity and diversity in the academic community.
 
 ## News
+
+<span style="color:gray">April 25</span>: I am now a postdoctoral researcher at *University of Amsterdam* funded by the [DAAD](https://www.daad.de/en/).
 
 <span style="color:gray">Oct 24</span>: I have taken on a substitute professorship for Geometry at *Otto von Guericke University Magdeburg, Germany*.
 
@@ -20,8 +20,6 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 <span style="color:gray">Nov 23</span>: My preprint [Nontrivial t-designs in polar spaces exist for all t](https://arxiv.org/abs/2311.08288) is on arXiv.
 
 <span style="color:gray">Jun 23</span>: The paper  [Existence of small ordered orthogonal arrays](https://doi.org/10.1002/jcd.21903) was published in *Journal of Combinatorial Designs*.
-
-<span style="color:gray">Mar 23</span>: The paper  [Packings and Steiner systems in polar spaces](https://escholarship.org/uc/item/83g3149p) was published in *Combinatorial Theory*.
 
 ## Travel & Talks
 
