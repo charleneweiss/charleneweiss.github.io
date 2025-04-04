@@ -17,8 +17,6 @@ Replace '...' by '@', '.', and '.' (in that order).
 
 **Address:**
 
-Faculty of Mathematics\
-Otto von Guericke University Magdeburg\
-Universitätsplatz 2\
-39106 Magdeburg\
-Germany
+Postbus 94248\
+1090 GE Amsterdam\
+Netherlands
