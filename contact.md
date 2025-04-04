@@ -19,4 +19,4 @@ Replace '...' by '@', '.', and '.' (in that order).
 
 Postbus 94248\
 1090 GE Amsterdam\
-Netherlands
+The Netherlands
