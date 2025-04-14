@@ -6,7 +6,7 @@ permalink: /teaching/
 ## Otto von Guericke University Magdeburg
 ____
 
-In the winter semester 2024/2025, I am the lecturer for two courses:
+In the winter semester 2024/2025, I was the lecturer for two courses:
 - Mathematik 3 für Informatik <span style="color:gray">(for bachelor's students, content: differential equations, numerical analysis, probability theory, statistics)</span>,
 - Diskrete Mathematik <span style="color:gray">(for bachelor's students)</span>.
 
