@@ -8,7 +8,7 @@ permalink: /research/
 ____
 
 **Nontrivial $t$-designs in polar spaces exist for all $t$**\
-*Des. Codes Cryptogr.* (2024).\
+*Des. Codes Cryptogr.*, 93, 971–981 (2025).\
 [journal](https://doi.org/10.1007/s10623-024-01471-1) &nbsp;&nbsp; [arXiv](https://arxiv.org/abs/2311.08288)
 <details>
 <summary>Abstract</summary>
@@ -30,7 +30,7 @@ A finite classical polar space of rank $n$ consists of the totally isotropic sub
 </details>
 
 **Existence of small ordered orthogonal arrays** (joint with Kai-Uwe Schmidt)\
-*J. Combin. Des.* 31(9), 422-431, 2023.\
+*J. Combin. Des.* 31(9), 422–431, 2023.\
 [journal](https://doi.org/10.1002/jcd.21903) &nbsp;&nbsp; [arXiv](https://arxiv.org/abs/2109.01586v2)
 <details>
 <summary>Abstract</summary>
@@ -43,7 +43,7 @@ We show that there exist ordered orthogonal arrays, whose sizes deviate from the
 ### Edited Volumes
 
 **Pushing the Limits of Computational Combinatorial Constructions (Dagstuhl Seminar 23161)** (L. Moura, A. Nakic, P. Östergård, A. Wassermann, C. Weiß (Editors))\
-*Dagstuhl Reports* 13 (2023), no. 4, 40—57.\
+*Dagstuhl Reports* 13 (2023), no. 4, 40–57.\
 [report](https://doi.org/10.4230/DagRep.13.4.40)
 <details>
 <summary>Abstract</summary>
