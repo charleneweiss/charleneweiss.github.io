@@ -33,5 +33,3 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 <span style="color:gray">May 24</span>: I will give an invited seminar talk at University of Rostock, Germany.
 
-<span style="color:gray">Apr 24</span>: I will give a talk at [Combinatorial Constructions Conference (CCC)](https://web.math.pmf.unizg.hr/acco/meetings.php) in Dubrovnik, Croatia.
-
