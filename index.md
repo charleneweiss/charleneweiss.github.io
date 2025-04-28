@@ -27,6 +27,8 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 <span style="color:gray">June 25</span>: I am an invited speaker at the conference [TerwilligerFest - Combinatorics around the q-Onsager algebra](https://conferences.famnit.upr.si/event/32/overview) in Kranjska Gora, Slovenia.
 
+<span style="color:gray">May 25</span>: I will give an invited seminar talk at the Institute for Algebra and Geometry, Otto von Guericke University Magdeburg, Germany.
+
 <span style="color:gray">Jun 24</span>: I will give a talk at [Combinatorics 2024](https://sites.google.com/view/combinatorics2024/home-page) in Carovigno (Br), Italy.
 
 <span style="color:gray">May 24</span>: I will give an invited seminar talk at University of Rostock, Germany.
