@@ -83,6 +83,9 @@ ____
 
 (Invited talks are marked with \*.)
 
+\* *Codes and Designs* \* \
+  <span style="color:gray"> Institute for Algebra and Geometry, Otto von Guericke University Magdeburg, Germany, May 2025.</span>
+
 *Existence of $t$-designs in polar spaces for all $t$*\
   <span style="color:gray">Combinatorics 2024, Carovigno (Br), Italy, June 2024.</span>
 
