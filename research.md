@@ -83,7 +83,7 @@ ____
 
 (Invited plenary talks are marked with \*\*. Invited seminar talks are marked with \*.)
 
-\*\* *Codes and Designs in Polar Spaces * \*\* \
+\*\* *Codes and Designs in Polar Spaces* \*\* \
   <span style="color:gray"> 5th Pythagorean conference, Kalamata, Greece, June 2025.</span>
 
 \* *Codes and Designs* \* \
