@@ -81,7 +81,10 @@ Bachelor's thesis, Otto von Guericke University Magdeburg, Germany, 2014.
 ## Talks
 ____
 
-(Invited talks are marked with \*.)
+(Invited plenary talks are marked with \*\*. Invited seminar talks are marked with \*.)
+
+\*\* *Codes and Designs in Polar Spaces * \*\* \
+  <span style="color:gray"> 5th Pythagorean conference, Kalamata, Greece, June 2025.</span>
 
 \* *Codes and Designs* \* \
   <span style="color:gray"> Institute for Algebra and Geometry, Otto von Guericke University Magdeburg, Germany, May 2025.</span>
@@ -98,7 +101,7 @@ ____
 \* *Codes and Steiner Systems* \* \
   <span style="color:gray">Oberseminar Groups and Geometry, Bielefeld, Germany, Jan 2024.</span>
 
-\* *Codes and Designs in Polar Spaces* \* \
+\*\* *Codes and Designs in Polar Spaces* \*\* \
   <span style="color:gray">On the mathematics of Frédéric Vanhove, Ghent, Belgium, Dec 2023.</span>
 
 *Existence of small ordered orthogonal arrays*\
