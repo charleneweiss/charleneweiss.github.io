@@ -11,7 +11,7 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## News
 
-<span style="color:gray">Aug 25</span>: My preprint [The linear programming optimum for packings in classical association schemes](https://arxiv.org/abs/2508.12806) is on arXiv.
+<span style="color:gray">Aug 25</span>: My preprint [The linear programming optimum for packings in classical association schemes](https://arxiv.org/abs/2508.12806)  (joint with Kai-Uwe Schmidt) is on arXiv.
 
 <span style="color:gray">April 25</span>: I am now a postdoctoral researcher at *University of Amsterdam* funded by the [DAAD](https://www.daad.de/en/).
 
