@@ -11,6 +11,8 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 ## News
 
+<span style="color:gray">Nov 23</span>: My preprint [The linear programming optimum for packings in classical association schemes](https://arxiv.org/abs/2508.12806) is on arXiv.
+
 <span style="color:gray">April 25</span>: I am now a postdoctoral researcher at *University of Amsterdam* funded by the [DAAD](https://www.daad.de/en/).
 
 <span style="color:gray">Oct 24</span>: I have taken on a substitute professorship for Geometry at *Otto von Guericke University Magdeburg, Germany*.
@@ -19,9 +21,10 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 <span style="color:gray">Nov 23</span>: My preprint [Nontrivial t-designs in polar spaces exist for all t](https://arxiv.org/abs/2311.08288) is on arXiv.
 
-<span style="color:gray">Jun 23</span>: The paper  [Existence of small ordered orthogonal arrays](https://doi.org/10.1002/jcd.21903) was published in *Journal of Combinatorial Designs*.
 
 ## Travel & Talks
+
+<span style="color:gray">Sept 25</span>: I will give a talk at [Finite Geometries 2025](https://mlavrauw.github.io/Irsee7/irsee7.html) in Irsee, Germany.
 
 <span style="color:gray">Sept 25</span>: I will give an invited talk at the General Mathematics Colloquium of the Korteweg-de Vries Institute for Mathematics, University of Amsterdam, the Netherlands.
 
@@ -30,6 +33,4 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 <span style="color:gray">June 25</span>: I am an invited speaker at the conference [TerwilligerFest - Combinatorics around the q-Onsager algebra](https://conferences.famnit.upr.si/event/32/overview) in Kranjska Gora, Slovenia.
 
 <span style="color:gray">May 25</span>: I will give an invited seminar talk at the Institute for Algebra and Geometry, Otto von Guericke University Magdeburg, Germany.
-
-<span style="color:gray">Jun 24</span>: I will give a talk at [Combinatorics 2024](https://sites.google.com/view/combinatorics2024/home-page) in Carovigno (Br), Italy.
 
