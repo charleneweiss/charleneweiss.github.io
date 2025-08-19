@@ -6,7 +6,7 @@ permalink: /research/
 ---
 ## Publications and Preprints
 ____
-**The linear programming optimum for packings in classical association schemes**\
+**The linear programming optimum for packings in classical association schemes** (joint with Kai-Uwe Schmidt)\
 preprint (2025).\
 [arXiv](https://arxiv.org/abs/2508.12806)
 <details>
