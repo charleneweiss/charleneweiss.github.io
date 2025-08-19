@@ -6,6 +6,16 @@ permalink: /research/
 ---
 ## Publications and Preprints
 ____
+**The linear programming optimum for packings in classical association schemes**\
+preprint (2025).\
+[arXiv](https://arxiv.org/abs/2508.12806)
+<details>
+<summary>Abstract</summary>
+<br>
+<span style="color:gray">
+Association schemes are central objects in algebraic combinatorics, with the classical schemes lying at their core. These classical association schemes essentially consist of the Hamming and Johnson schemes, and their $q$-analogs: bilinear forms scheme, alternating bilinear forms scheme, Hermitian forms scheme, $q$-Johnson scheme, and polar space schemes. Each of them gives rise to a distance-regular graph on a vertex set $X$, naturally endowed with the path metric. We study $d$-codes in these schemes, that is, subsets $Y$ of $X$ in which every pair of distinct elements has path distance at least $d$. A powerful tool for deriving upper bounds on the size of $d$-codes is the linear programming method. In the case of the Hamming and Johnson schemes, the linear program has been studied since the 1970s, but its optimum is still unknown. We determine the optimum of the linear program for nearly all classical association schemes distinct from the Hamming and Johnson schemes. This is achieved by constructing feasible solutions to both the primal and dual linear programs whose objective values coincide. As a corollary, we obtain upper bounds on $t$-intersecting sets in classical association schemes, providing new proofs of several known results and, in particular, improving earlier bounds on $t$-intersecting sets of generators in polar spaces. These results can be viewed as analogs of the classical Erd\H{o}s--Ko--Rado Theorem in extremal set theory. Our proofs draw on techniques from algebraic combinatorics and the duality theory of linear programming.
+</span>
+</details>
 
 **Nontrivial $t$-designs in polar spaces exist for all $t$**\
 *Des. Codes Cryptogr.*, 93, 971–981 (2025).\
