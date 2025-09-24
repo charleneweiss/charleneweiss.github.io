@@ -93,6 +93,9 @@ ____
 
 (Invited plenary and conference talks are marked with \*\*. Invited seminar talks are marked with \*.)
 
+\* *Codes, Designs, and the Power of Linear Programming* \* \
+  <span style="color:gray">  Korteweg-de Vries Institute for Mathematics, University of Amsterdam, The Netherlands, Sept 2025.</span>
+
 \*\* *Codes and Designs in Classical Association Schemes* \*\* \
   <span style="color:gray"> TerwilligerFest---Combinatorics around the q-Onsager algebra, Kranjska Gora, Slovenia, June 2025.</span>
 
