@@ -14,9 +14,3 @@ chweiss...math...upb...de
 Replace '...' by '@', '.', and '.' (in that order).
 <br/><br/>
 
-
-**Address:**
-
-Postbus 94248\
-1090 GE Amsterdam\
-The Netherlands
