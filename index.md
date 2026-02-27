@@ -5,7 +5,7 @@ I earned my doctorate from Paderborn University under the supervision of Kai-Uwe
 
 I obtained my bachelor’s and master’s degree in Mathematics (both with a minor in Physics) at Otto von Guericke University Magdeburg, Germany. During my master's studies, I was an exchange student at NTNU Trondheim, Norway.
 
-My research focuses on combinatorics, particularly on combinatorial problems related to design theory, coding theory, and finite geometry. I am especially interested in codes and designs as subsets of association schemes, and I like to use methods from optimization theory to address questions arising in combinatorics and related fields such as finite geometry.
+My research focuses on combinatorics, particularly on combinatorial problems related to coding theory, design theory, and finite geometry. I am especially interested in codes and designs as subsets of association schemes, and I like to use methods from optimization theory to address questions arising in combinatorics and related fields such as finite geometry.
 
 Furthermore, I am passionate about promoting inclusivity and diversity in the academic community.
 
