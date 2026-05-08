@@ -13,7 +13,7 @@ preprint (2026).\
 <summary>Abstract</summary>
 <br>
 <span style="color:gray">
-Fix a prime power $q$ and parameters $1\leq t\leq k\leq n$, the corresponding Steiner system in the Grassmann scheme, or the $q$-Steiner system, is a collection $\mathfrak{B}$ of $k$-dimensional subspaces of $\mathbb{F}_q$ such that for each $t$-dimensional subspace $T$, there exists exactly one element of $\mathfrak{B}$ containing $T$. The dimension of Steiner systems in the Grassmann scheme is defined to be the dimension of the $\mathbb{Q}$-vector space spanned by the characteristic vectors of all these $q$-Steiner systems. In this paper, we prove that when a quadruple $(t,k,n,q)$ admits at least one $q$-Steiner system, the corresponding dimension is equal to $\genfrac{[}{]}{0pt}{}{{n}}{{k}}_q-\genfrac{[}{]}{0pt}{}{{n}}{{t}}_q+1$. This generalizes the 2019 work of Ghodrati on ordinary Steiner systems.
+Fix a prime power $q$ and parameters $1\leq t\leq k\leq n$, the corresponding Steiner system in the Grassmann scheme, or the $q$-Steiner system, is a collection $\mathfrak{B}$ of $k$-dimensional subspaces of $\mathbb{F}_q$ such that for each $t$-dimensional subspace $T$, there exists exactly one element of $\mathfrak{B}$ containing $T$. The dimension of Steiner systems in the Grassmann scheme is defined to be the dimension of the $\mathbb{Q}$-vector space spanned by the characteristic vectors of all these $q$-Steiner systems. In this paper, we prove that when a quadruple $(t,k,n,q)$ admits at least one $q$-Steiner system, the corresponding dimension is equal to $\binom{n}{k}_q-\binom{n}{t}_q+1$. This generalizes the 2019 work of Ghodrati on ordinary Steiner systems.
 </span>
 </details>
 
