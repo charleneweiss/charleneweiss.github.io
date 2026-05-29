@@ -102,15 +102,15 @@ Bachelor's thesis, Otto von Guericke University Magdeburg, Germany, 2014.
 ## Talks
 ____
 
-(Invited plenary and conference talks are marked with \*\*. Invited seminar talks are marked with \*.)
+(Invited plenary and conference talks are marked with **. Invited seminar talks are marked with *.)
 
 \* *Codes, Designs, and the Power of Linear Programming* \* \
-  <span style="color:gray">  Korteweg-de Vries Institute for Mathematics, University of Amsterdam, The Netherlands, Sept 2025.</span>
+  <span style="color:gray">  Korteweg-de-Vries Institute for Mathematics, University of Amsterdam, The Netherlands, Sept 2025.</span>
 
-\*\* *Codes and Designs in Classical Association Schemes* \*\* \
+** *Codes and Designs in Classical Association Schemes* ** \
   <span style="color:gray"> TerwilligerFest---Combinatorics around the q-Onsager algebra, Kranjska Gora, Slovenia, June 2025.</span>
 
-\*\* *Codes and Designs in Polar Spaces* \*\* \
+** *Codes and Designs in Polar Spaces* ** \
   <span style="color:gray"> 5th Pythagorean conference, Kalamata, Greece, June 2025.</span>
 
 \* *Codes and Designs* \* \

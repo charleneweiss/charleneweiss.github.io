@@ -7,7 +7,6 @@
 
 @import "reset";
 @import "variables";
-// Syntax highlighting @import is at the bottom of this file
 
 /**************/
 /* BASE RULES */
@@ -19,7 +18,7 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 16px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -52,7 +51,7 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 h3 {
@@ -73,6 +72,20 @@ a {
   text-decoration: none;
  cursor: pointer;
   &:hover, &:active {color: #008001;}
+}
+
+.talk-meta {
+  color: $gray;
+  font-size: 0.95em;
+  display: block;
+  margin-top: 0.15em;
+}
+
+.talk-note {
+  display: block;
+  margin-top: 0.25em;
+  color: #007700;
+  font-size: 0.95em;
 }
 
 ul, ol {
@@ -108,14 +121,17 @@ img {
   max-width: 100%;
 }
 
-// Fixes images in popup boxes from Google Translate
-.gmnoprint img {
-  max-width: none;
+.profile-picture {
+  width: 300px;
+  max-width: 100%;
 }
 
-.date {
-  font-style: italic;
-  color: $gray;
+@include mobile {
+  .profile-picture {
+    display: block;
+    margin: 0 auto 1em;
+    width: 160px;
+  }
 }
 
 // Specify the color of the selection
@@ -230,6 +246,11 @@ nav {
 
     @include mobile {
       margin: 0 10px;
+    }
+
+    &.active,
+    &:hover,
+    &:active {
       color: #008001;
     }
   }
@@ -238,36 +259,6 @@ nav {
 //
 // .main
 //
-
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
-}
-
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-
-.post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
-}
 
 .wrapper-footer {
   margin-top: 50px;
@@ -279,9 +270,7 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+  font-size: 14px;
 }
 
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
-@import "svg-icons";
+
