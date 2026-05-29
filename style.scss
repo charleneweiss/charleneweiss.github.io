@@ -260,31 +260,6 @@ nav {
 // .main
 //
 
-.abstract-toggle {
-  display: none;
-}
-
-.abstract-link {
-  display: inline;
-  cursor: pointer;
-  color: #008001;
-  text-decoration: none;
-}
-
-.abstract-link:hover {
-  text-decoration: none;
-}
-
-.abstract-content {
-  display: none;
-  margin-top: 0.5em;
-  color: $gray;
-}
-
-.abstract-toggle:checked + .abstract-link + .abstract-content {
-  display: block;
-}
-
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
