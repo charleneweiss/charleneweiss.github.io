@@ -299,7 +299,9 @@ nav a.active, nav a:hover, nav a:active {
 }
 
 .abstract-toggle {
-  display: none;
+  display: none !important;
+  position: absolute;
+  left: -9999px;
 }
 
 .abstract-link {
@@ -314,13 +316,14 @@ nav a.active, nav a:hover, nav a:active {
 }
 
 .abstract-content {
-  display: none;
+  display: none !important;
   margin-top: 0.5em;
   color: #666;
 }
 
-.abstract-toggle:checked + .abstract-link + .abstract-content {
-  display: block;
+.abstract-toggle:checked + .abstract-link + .abstract-content,
+.abstract-toggle:checked ~ .abstract-content {
+  display: block !important;
 }
 
 .wrapper-footer {
