@@ -22,7 +22,7 @@ Furthermore, I am passionate about promoting inclusivity and diversity in the ac
 
 <span style="color:gray">April 25</span>: I am now a postdoctoral researcher at *University of Amsterdam* funded by the [DAAD](https://www.daad.de/en/).
 
-<span style="color:gray">Oct 24</span>: I have taken on a substitute professorship for Geometry at *Otto von Guericke University Magdeburg, Germany*.
+<span style="color:gray">Oct 24</span>: I have taken on an interim professorship for Geometry at *Otto von Guericke University Magdeburg, Germany*.
 
 
 ## Travel & Talks
