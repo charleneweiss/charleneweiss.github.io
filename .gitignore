@@ -16,3 +16,6 @@ vendor/
 
 # Codacy
 .codacy/
+
+# Locally stored built instructions for VS Code
+built_instructions.md
