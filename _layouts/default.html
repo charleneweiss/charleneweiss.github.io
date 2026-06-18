@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <script>
+      // Apply the saved theme before first paint to avoid a flash of the wrong colors.
+      (function () {
+        try {
+          var saved = localStorage.getItem('theme');
+          if (saved) document.documentElement.setAttribute('data-theme', saved);
+        } catch (e) {}
+      })();
+    </script>
     <link rel="shortcut icon" href="favicon.ico">
     {% if page.use_math %}
     {% include mathjax_support.html %}
@@ -31,6 +40,7 @@
             <a href="{{ site.baseurl }}/cv" class="{% if page.url == '/cv/' %}active{% endif %}">CV</a>
             <a href="{{ site.baseurl }}/teaching" class="{% if page.url == '/teaching/' %}active{% endif %}">Teaching</a>
             <a href="{{ site.baseurl }}/contact" class="{% if page.url == '/contact/' %}active{% endif %}">Contact</a>
+            <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode"></button>
           </nav>
         </header>
       </div>
@@ -46,5 +56,35 @@
 			<p>Last Updated: May 2026 </p>
         </footer>
     </div>
+
+    <script>
+      // Header light/dark toggle. Defaults to the OS setting; remembers a manual choice.
+      (function () {
+        var root = document.documentElement;
+        var toggle = document.getElementById('theme-toggle');
+        if (!toggle) return;
+        var media = window.matchMedia('(prefers-color-scheme: dark)');
+
+        function currentTheme() {
+          return root.getAttribute('data-theme') || (media.matches ? 'dark' : 'light');
+        }
+        function updateIcon() {
+          toggle.textContent = currentTheme() === 'dark' ? '☀' : '☾';
+        }
+        updateIcon();
+
+        toggle.addEventListener('click', function () {
+          var next = currentTheme() === 'dark' ? 'light' : 'dark';
+          root.setAttribute('data-theme', next);
+          try { localStorage.setItem('theme', next); } catch (e) {}
+          updateIcon();
+        });
+
+        // Keep the icon in sync if the OS theme changes and no manual choice is set.
+        media.addEventListener('change', function () {
+          if (!root.getAttribute('data-theme')) updateIcon();
+        });
+      })();
+    </script>
   </body>
 </html>

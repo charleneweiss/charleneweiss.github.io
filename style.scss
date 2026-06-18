@@ -8,6 +8,50 @@
 @import "reset";
 @import "variables";
 
+/****************/
+/* COLOR THEMES */
+/****************/
+
+// Dark palette — shared by the manual override and the system preference below.
+@mixin dark-theme {
+  --bg: #1a1a1a;
+  --text: #d4d4d4;
+  --heading: #f0f0f0;
+  --muted: #9b9b9b;
+  --link: #4caf50;
+  --link-hover: #6ec071;
+  --border: #333;
+  --selection-text: #fff;
+  --selection-bg: #333;
+  --footer-bg: #00693e;
+  --footer-border: #2a2a2a;
+  --footer-text: #fff;
+}
+
+// Light palette (default).
+:root {
+  --bg: #{$white};
+  --text: #{$darkGray};
+  --heading: #{$darkerGray};
+  --muted: #{$gray};
+  --link: #008001;
+  --link-hover: #008001;
+  --border: #{$lightGray};
+  --selection-text: #{$black};
+  --selection-bg: #{$lightGray};
+  --footer-bg: #00693e;
+  --footer-border: #ddd;
+  --footer-text: #fff;
+}
+
+// Manual override via the header toggle.
+:root[data-theme="dark"] { @include dark-theme; }
+
+// Follow the visitor's OS setting unless they explicitly chose light.
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { @include dark-theme; }
+}
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -17,9 +61,10 @@ html {
 }
 
 body {
-  background: $white;
+  background: var(--bg);
   font: 16px/1.4 $helvetica;
-  color: $darkGray;
+  color: var(--text);
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 .container {
@@ -31,7 +76,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: var(--heading);
   font-weight: bold;
 
   line-height: 1.7;
@@ -60,7 +105,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: var(--muted);
 }
 
 p {
@@ -68,10 +113,15 @@ p {
 }
 
 a {
-  color: #008001;
+  color: var(--link);
   text-decoration: none;
  cursor: pointer;
-  &:hover, &:active {color: #008001;}
+  &:hover, &:active {color: var(--link-hover);}
+}
+
+// Muted date labels for News / Travel & Talks entries.
+.date {
+  color: var(--muted);
 }
 
 ul, ol {
@@ -122,12 +172,12 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: var(--selection-text);
+  background: var(--selection-bg);
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: var(--selection-text);
+  background: var(--selection-bg);
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -156,7 +206,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid var(--border);
 
   @include mobile {
     text-align: center;
@@ -192,7 +242,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: var(--text);
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +252,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: var(--muted);
   font-size: 16px;
 
   @include mobile {
@@ -225,7 +275,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: var(--text);
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -237,8 +287,29 @@ nav {
     &.active,
     &:hover,
     &:active {
-      color: #008001;
+      color: var(--link);
     }
+  }
+}
+
+.theme-toggle {
+  margin-left: 20px;
+  padding: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 1;
+  color: var(--text);
+  vertical-align: middle;
+  transition: color 0.2s ease;
+
+  @include mobile {
+    margin: 0 10px;
+  }
+
+  &:hover {
+    color: var(--link);
   }
 }
 
@@ -255,7 +326,7 @@ nav {
 .abstract-link {
   display: inline;
   cursor: pointer;
-  color: #008001;
+  color: var(--link);
   text-decoration: none;
 }
 
@@ -266,7 +337,7 @@ nav {
 .abstract-content {
   display: none !important;
   margin-top: 0.5em;
-  color: $gray;
+  color: var(--muted);
 }
 
 .abstract-toggle:checked + .abstract-link + .abstract-content,
@@ -276,16 +347,14 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: #00693e;
+  border-top: 1px solid var(--footer-border);
+  border-bottom: 1px solid var(--footer-border);
+  background-color: var(--footer-bg);
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
   font-size: 14px;
-  color: #fff;
+  color: var(--footer-text);
 }
-
-

@@ -56,6 +56,55 @@ table {
   box-sizing: border-box;
 }
 
+/****************/
+/* COLOR THEMES */
+/****************/
+:root {
+  --bg: #fff;
+  --text: #333;
+  --heading: #222;
+  --muted: #666;
+  --link: #008001;
+  --link-hover: #008001;
+  --border: #eee;
+  --selection-text: #000;
+  --selection-bg: #eee;
+  --footer-bg: #00693e;
+  --footer-border: #ddd;
+  --footer-text: #fff;
+}
+
+:root[data-theme=dark] {
+  --bg: #1a1a1a;
+  --text: #d4d4d4;
+  --heading: #f0f0f0;
+  --muted: #9b9b9b;
+  --link: #4caf50;
+  --link-hover: #6ec071;
+  --border: #333;
+  --selection-text: #fff;
+  --selection-bg: #333;
+  --footer-bg: #00693e;
+  --footer-border: #2a2a2a;
+  --footer-text: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme=light]) {
+    --bg: #1a1a1a;
+    --text: #d4d4d4;
+    --heading: #f0f0f0;
+    --muted: #9b9b9b;
+    --link: #4caf50;
+    --link-hover: #6ec071;
+    --border: #333;
+    --selection-text: #fff;
+    --selection-bg: #333;
+    --footer-bg: #00693e;
+    --footer-border: #2a2a2a;
+    --footer-text: #fff;
+  }
+}
 /**************/
 /* BASE RULES */
 /**************/
@@ -64,9 +113,10 @@ html {
 }
 
 body {
-  background: #fff;
+  background: var(--bg);
   font: 16px/1.4 Helvetica, Arial, sans-serif;
-  color: #333;
+  color: var(--text);
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 .container {
@@ -78,7 +128,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222;
+  color: var(--heading);
   font-weight: bold;
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -107,7 +157,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #666;
+  color: var(--muted);
 }
 
 p {
@@ -115,12 +165,16 @@ p {
 }
 
 a {
-  color: #008001;
+  color: var(--link);
   text-decoration: none;
   cursor: pointer;
 }
 a:hover, a:active {
-  color: #008001;
+  color: var(--link-hover);
+}
+
+.date {
+  color: var(--muted);
 }
 
 ul, ol {
@@ -169,13 +223,13 @@ img {
   }
 }
 ::-moz-selection {
-  color: #000;
-  background: #eee;
+  color: var(--selection-text);
+  background: var(--selection-bg);
 }
 
 ::selection {
-  color: #000;
-  background: #eee;
+  color: var(--selection-text);
+  background: var(--selection-bg);
 }
 
 .clearfix:before,
@@ -197,7 +251,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid var(--border);
 }
 @media screen and (max-width: 640px) {
   .masthead {
@@ -235,7 +289,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #333;
+  color: var(--text);
   cursor: pointer;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
@@ -245,7 +299,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #666;
+  color: var(--muted);
   font-size: 16px;
 }
 @media screen and (max-width: 640px) {
@@ -270,7 +324,7 @@ nav {
 }
 nav a {
   margin-left: 20px;
-  color: #333;
+  color: var(--text);
   text-align: right;
   font-weight: 300;
   letter-spacing: 1px;
@@ -281,7 +335,28 @@ nav a {
   }
 }
 nav a.active, nav a:hover, nav a:active {
-  color: #008001;
+  color: var(--link);
+}
+
+.theme-toggle {
+  margin-left: 20px;
+  padding: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 1;
+  color: var(--text);
+  vertical-align: middle;
+  transition: color 0.2s ease;
+}
+@media screen and (max-width: 640px) {
+  .theme-toggle {
+    margin: 0 10px;
+  }
+}
+.theme-toggle:hover {
+  color: var(--link);
 }
 
 .abstract-toggle {
@@ -293,7 +368,7 @@ nav a.active, nav a:hover, nav a:active {
 .abstract-link {
   display: inline;
   cursor: pointer;
-  color: #008001;
+  color: var(--link);
   text-decoration: none;
 }
 
@@ -304,7 +379,7 @@ nav a.active, nav a:hover, nav a:active {
 .abstract-content {
   display: none !important;
   margin-top: 0.5em;
-  color: #666;
+  color: var(--muted);
 }
 
 .abstract-toggle:checked + .abstract-link + .abstract-content,
@@ -314,16 +389,16 @@ nav a.active, nav a:hover, nav a:active {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: #00693e;
+  border-top: 1px solid var(--footer-border);
+  border-bottom: 1px solid var(--footer-border);
+  background-color: var(--footer-bg);
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
   font-size: 14px;
-  color: #fff;
+  color: var(--footer-text);
 }
 
 /*# sourceMappingURL=style.css.map */
