@@ -19,14 +19,13 @@
     {% include meta.html %}
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
   </head>
 
   <body>
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" alt="Example of a polar space" /></a>
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
@@ -50,10 +49,10 @@
     </div>
 
     <div class="wrapper-footer">
-        <footer class="footer">
-			<p>&copy; {{ site.time | date: '%Y' }} by {{ site.name }} <small> (she/her) </small> </p>
-			<p>Last Updated: May 2026 </p>
-        </footer>
+      <footer>
+        <p>&copy; {{ site.time | date: '%Y' }} by {{ site.name }} <small>(she/her)</small></p>
+        <p>Last Updated: May 2026</p>
+      </footer>
     </div>
 
     <script>

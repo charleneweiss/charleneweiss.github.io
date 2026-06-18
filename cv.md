@@ -8,19 +8,19 @@ A complete CV is available on request.
 
 ## Education
 - **Dr. rer. nat. in Mathematics** (with distinction),
- <span style="color:gray">Feb 2023</span>\
+ <span class="muted">Feb 2023</span>\
 Paderborn University, Germany
 
 - **Master of Science in Mathematics** (with distinction),
- <span style="color:gray">Sept 2017</span>\
+ <span class="muted">Sept 2017</span>\
 Otto von Guericke University Magdeburg, Germany
 
 - **ERASMUS+ exchange semester**,
- <span style="color:gray">Aug--Dec 2015</span>\
+ <span class="muted">Aug--Dec 2015</span>\
 NTNU Trondheim, Norway
 
 - **Bachelor of Science in Mathematics** (with distinction),
- <span style="color:gray">Sept 2014</span>\
+ <span class="muted">Sept 2014</span>\
 Otto von Guericke University Magdeburg, Germany
 
 ## Service

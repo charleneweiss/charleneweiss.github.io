@@ -148,20 +148,16 @@ a {
   text-underline-offset: 2px;
 }
 
-// Justified ("block") body text on the Home page only.
-.home p {
-  text-align: justify;
-  hyphens: auto;
-}
-
-// Reusable justified ("block") text wrapper (e.g. CV Service section).
+// Justified ("block") body text: Home page paragraphs and any wrapped
+// block (e.g. the CV Service section).
+.home p,
 .justify {
   text-align: justify;
   hyphens: auto;
 }
 
-// Muted date labels for News / Travel & Talks entries.
-.date {
+// Muted secondary text (dates, venues, course details, etc.).
+.muted {
   color: var(--muted);
 }
 
@@ -221,18 +217,6 @@ img {
 ::selection {
   color: var(--selection-text);
   background: var(--selection-bg);
-}
-
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
 }
 
 /*********************/
@@ -302,10 +286,6 @@ img {
   margin: 6px 0 0 0;
   color: var(--muted);
   font-size: 16px;
-
-  @include mobile {
-    margin: 6px 0 0 0;
-  }
 }
 
 nav {
@@ -362,8 +342,6 @@ nav {
 
 .abstract-toggle {
   display: none !important;
-  position: absolute;
-  left: -9999px;
 }
 
 .abstract-link {
@@ -384,8 +362,8 @@ nav {
   text-align: justify;
   hyphens: auto;
 
-  // Match the publication title color (overrides the inner muted .date span).
-  .date {
+  // Match the publication title color (overrides the inner .muted span).
+  .muted {
     color: var(--text);
   }
 }

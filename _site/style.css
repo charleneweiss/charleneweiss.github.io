@@ -193,17 +193,13 @@ a:hover, a:active {
   text-underline-offset: 2px;
 }
 
-.home p {
-  text-align: justify;
-  hyphens: auto;
-}
-
+.home p,
 .justify {
   text-align: justify;
   hyphens: auto;
 }
 
-.date {
+.muted {
   color: var(--muted);
 }
 
@@ -264,16 +260,6 @@ img {
 ::selection {
   color: var(--selection-text);
   background: var(--selection-bg);
-}
-
-.clearfix:before,
-.clearfix:after {
-  content: " ";
-  display: table;
-}
-
-.clearfix:after {
-  clear: both;
 }
 
 /*********************/
@@ -341,11 +327,6 @@ img {
   color: var(--muted);
   font-size: 16px;
 }
-@media screen and (max-width: 640px) {
-  .site-description {
-    margin: 6px 0 0 0;
-  }
-}
 
 nav {
   flex-shrink: 0;
@@ -395,8 +376,6 @@ nav a.active, nav a:hover, nav a:active {
 
 .abstract-toggle {
   display: none !important;
-  position: absolute;
-  left: -9999px;
 }
 
 .abstract-link {
@@ -417,7 +396,7 @@ nav a.active, nav a:hover, nav a:active {
   text-align: justify;
   hyphens: auto;
 }
-.abstract-content .date {
+.abstract-content .muted {
   color: var(--text);
 }
 
