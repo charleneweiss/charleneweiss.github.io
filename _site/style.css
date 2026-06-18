@@ -125,6 +125,10 @@ body {
   flex: 1 0 auto;
 }
 
+.entry > :first-child {
+  margin-top: 0;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -276,7 +280,7 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .masthead {

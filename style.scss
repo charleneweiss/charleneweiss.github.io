@@ -76,6 +76,12 @@ body {
   flex: 1 0 auto;
 }
 
+// Keep the gap below the header consistent: drop the first content element's
+// top margin (otherwise a leading heading adds its own large margin on top).
+.entry > :first-child {
+  margin-top: 0;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -238,7 +244,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .masthead {
