@@ -145,6 +145,15 @@ h1 a {
 h2 {
   font-size: 22px;
 }
+h2::after {
+  content: "";
+  display: block;
+  width: 2.5rem;
+  height: 3px;
+  margin-top: 0.35em;
+  border-radius: 2px;
+  background: var(--link);
+}
 
 h3 {
   font-size: 20px;

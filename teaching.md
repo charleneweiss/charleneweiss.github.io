@@ -4,14 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 ## Otto von Guericke University Magdeburg
-____
 
 In the winter semester 2024/2025, I was the lecturer for two courses:
 - Mathematik 3 für Informatik <span style="color:gray">(for bachelor's students, content: differential equations, numerical analysis, probability theory, statistics)</span>,
 - Diskrete Mathematik <span style="color:gray">(for bachelor's students)</span>.
 
 ## Paderborn University
-____
 At Paderborn University, I was a teaching assistant for several courses (all taught in German), see below. 
 
 In 2020, the Faculty of Electronic Engineering, Computer Science and Mathematics of Paderborn University awarded me the [Weierstraß-Prize for excellent teaching](https://www.eim.uni-paderborn.de/en/faculty/studies/weierstrass-prize/weierstrass-prize-2020). 

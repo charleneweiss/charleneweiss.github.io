@@ -7,7 +7,6 @@ permalink: /cv/
 A complete CV is available on request.
 
 ## Education
-____
 - **Dr. rer. nat. in Mathematics** (with distinction),
  <span style="color:gray">Feb 2023</span>\
 Paderborn University, Germany
@@ -25,7 +24,6 @@ NTNU Trondheim, Norway
 Otto von Guericke University Magdeburg, Germany
 
 ## Service
-____
 <div class="justify" markdown="1">
 From February 2023 to September 2024, I was the [equal opportunities officer](https://www.eim.uni-paderborn.de/en/faculty/faculty/organisation/equal-opportunities-officer) of the Faculty of Computer Science, Electrical Engineering and Mathematics at Paderborn University. 
 

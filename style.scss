@@ -94,6 +94,17 @@ h1 {
 
 h2 {
   font-size: 22px;
+
+  // Short brand-green accent bar beneath each section heading.
+  &::after {
+    content: "";
+    display: block;
+    width: 2.5rem;
+    height: 3px;
+    margin-top: 0.35em;
+    border-radius: 2px;
+    background: var(--link);
+  }
 }
 
 h3 {
