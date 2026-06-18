@@ -337,7 +337,12 @@ nav {
 .abstract-content {
   display: none !important;
   margin-top: 0.5em;
-  color: var(--muted);
+  color: var(--text);
+
+  // Match the publication title color (overrides the inner muted .date span).
+  .date {
+    color: var(--text);
+  }
 }
 
 .abstract-toggle:checked + .abstract-link + .abstract-content,

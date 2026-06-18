@@ -376,7 +376,10 @@ nav a.active, nav a:hover, nav a:active {
 .abstract-content {
   display: none !important;
   margin-top: 0.5em;
-  color: var(--muted);
+  color: var(--text);
+}
+.abstract-content .date {
+  color: var(--text);
 }
 
 .abstract-toggle:checked + .abstract-link + .abstract-content,
