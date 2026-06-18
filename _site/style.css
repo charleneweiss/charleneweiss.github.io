@@ -84,7 +84,7 @@ table {
   --border: #333;
   --selection-text: #fff;
   --selection-bg: #333;
-  --footer-bg: #00693e;
+  --footer-bg: #1f5132;
   --footer-border: #2a2a2a;
   --footer-text: #fff;
 }
@@ -100,7 +100,7 @@ table {
     --border: #333;
     --selection-text: #fff;
     --selection-bg: #333;
-    --footer-bg: #00693e;
+    --footer-bg: #1f5132;
     --footer-border: #2a2a2a;
     --footer-text: #fff;
   }
