@@ -395,6 +395,37 @@ nav {
   display: block !important;
 }
 
+// Talks list: type badges and award notes.
+.tag {
+  display: inline-block;
+  margin-left: 0.15em;
+  padding: 0.12em 0.7em;
+  border-radius: 999px;
+  font-size: 0.7em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  vertical-align: middle;
+}
+
+// Filled green: invited plenary/conference talks and awards.
+.tag-invited,
+.tag-award {
+  background: var(--link);
+  color: #fff;
+}
+
+// Outlined green: invited seminar talks.
+.tag-seminar {
+  border: 1px solid var(--link);
+  color: var(--link);
+}
+
+.award {
+  color: var(--link);
+  font-size: 0.95em;
+}
+
 .wrapper-footer {
   flex-shrink: 0;
   margin-top: 60px;

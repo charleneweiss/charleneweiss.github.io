@@ -64,34 +64,32 @@ Bachelor's thesis, Otto von Guericke University Magdeburg, Germany, 2014.
 
 ## Talks
 
-(Invited plenary and conference talks are marked with **. Invited seminar talks are marked with *.)
+*Codes, Designs, and the Power of Linear Programming* \
+  <span class="date">  Korteweg-de-Vries Institute for Mathematics, University of Amsterdam, The Netherlands, Sept 2025.</span> <span class="tag tag-seminar">Invited seminar</span>
 
-\* *Codes, Designs, and the Power of Linear Programming* \* \
-  <span class="date">  Korteweg-de-Vries Institute for Mathematics, University of Amsterdam, The Netherlands, Sept 2025.</span>
+*Codes and Designs in Classical Association Schemes* \
+  <span class="date"> TerwilligerFest---Combinatorics around the q-Onsager algebra, Kranjska Gora, Slovenia, June 2025.</span> <span class="tag tag-invited">Invited conference</span>
 
-** *Codes and Designs in Classical Association Schemes* ** \
-  <span class="date"> TerwilligerFest---Combinatorics around the q-Onsager algebra, Kranjska Gora, Slovenia, June 2025.</span>
+*Codes and Designs in Polar Spaces* \
+  <span class="date"> 5th Pythagorean conference, Kalamata, Greece, June 2025.</span> <span class="tag tag-invited">Invited plenary</span>
 
-** *Codes and Designs in Polar Spaces* ** \
-  <span class="date"> 5th Pythagorean conference, Kalamata, Greece, June 2025.</span>
-
-\* *Codes and Designs* \* \
-  <span class="date"> Institute for Algebra and Geometry, Otto von Guericke University Magdeburg, Germany, May 2025.</span>
+*Codes and Designs* \
+  <span class="date"> Institute for Algebra and Geometry, Otto von Guericke University Magdeburg, Germany, May 2025.</span> <span class="tag tag-seminar">Invited seminar</span>
 
 *Existence of $t$-designs in polar spaces for all $t$*\
   <span class="date">Combinatorics 2024, Carovigno (Br), Italy, June 2024.</span>
 
-\* *Codes und Designs* \* \
-  <span class="date"> Department of Mathematics, Rostock University, Germany, May 2024.</span>
+*Codes und Designs* \
+  <span class="date"> Department of Mathematics, Rostock University, Germany, May 2024.</span> <span class="tag tag-seminar">Invited seminar</span>
 
 *Existence of $t$-designs in polar spaces for all $t$*\
   <span class="date">Combinatorial Constructions Conference (CCC), Dubrovnik, Croatia, Apr 2024.</span>
 
-\* *Codes and Steiner Systems* \* \
-  <span class="date">Oberseminar Groups and Geometry, Bielefeld, Germany, Jan 2024.</span>
+*Codes and Steiner Systems* \
+  <span class="date">Oberseminar Groups and Geometry, Bielefeld, Germany, Jan 2024.</span> <span class="tag tag-seminar">Invited seminar</span>
 
-\*\* *Codes and Designs in Polar Spaces* \*\* \
-  <span class="date">On the mathematics of Frédéric Vanhove, Ghent, Belgium, Dec 2023.</span>
+*Codes and Designs in Polar Spaces* \
+  <span class="date">On the mathematics of Frédéric Vanhove, Ghent, Belgium, Dec 2023.</span> <span class="tag tag-invited">Invited plenary</span>
 
 *Existence of small ordered orthogonal arrays*\
   <span class="date">RICCOTA2023, Rijeka, Croatia, Jul 2023.</span>
@@ -113,9 +111,9 @@ Bachelor's thesis, Otto von Guericke University Magdeburg, Germany, 2014.
   <span class="date">Combinatorics 2022, Mantua, Italy, May 2022.</span>
 
 *From Dobble to streaming videos*\
-  <span class="date">Science Day of the Faculty of Computer Science, Electrical Engineering and Mathematics, Paderborn, Germany, May 2022.</span>\
-  <span style="color:green">Won a 1st prize for this talk at the Science Day.</span>
+  <span class="date">Science Day of the Faculty of Computer Science, Electrical Engineering and Mathematics, Paderborn, Germany, May 2022.</span> <span class="tag tag-award">Award</span>\
+  <span class="award">Won a 1st prize for this talk at the Science Day.</span>
 
 *Semidefinite Optimierung und das Packungsproblem der Codierungstheorie*\
-  <span class="date">Young Researchers Symposium of the German Mathematical Society DMV, Paderborn, Germany, Mar 2018.</span>\
-  <span style="color:green">Won an invitation to a workshop at Oberwolfach Research Institute for Mathematics and an award from the company dSpace for this talk.</span>
+  <span class="date">Young Researchers Symposium of the German Mathematical Society DMV, Paderborn, Germany, Mar 2018.</span> <span class="tag tag-award">Award</span>\
+  <span class="award">Won an invitation to a workshop at Oberwolfach Research Institute for Mathematics and an award from the company dSpace for this talk.</span>
