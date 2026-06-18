@@ -173,6 +173,11 @@ a:hover, a:active {
   text-underline-offset: 2px;
 }
 
+.home p {
+  text-align: justify;
+  hyphens: auto;
+}
+
 .date {
   color: var(--muted);
 }

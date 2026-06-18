@@ -122,6 +122,12 @@ a {
   text-underline-offset: 2px;
 }
 
+// Justified ("block") body text on the Home page only.
+.home p {
+  text-align: justify;
+  hyphens: auto;
+}
+
 // Muted date labels for News / Travel & Talks entries.
 .date {
   color: var(--muted);
