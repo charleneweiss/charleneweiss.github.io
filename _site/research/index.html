@@ -3,28 +3,18 @@
   <head>
     <link rel="shortcut icon" href="favicon.ico">
     
-    <script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-    TeX: {
-      equationNumbers: {
-        autoNumber: "AMS"
-      }
-    },
-    tex2jax: {
-    inlineMath: [ ['$', '$'] ],
-    displayMath: [ ['$$', '$$'] ],
+    <script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$']],
+    displayMath: [['$$', '$$']],
     processEscapes: true,
+    tags: 'ams'
   }
-});
-MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
-	  alert("Math Processing Error: "+message[1]);
-	});
-MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
-	  alert("Math Processing Error: "+message[1]);
-	});
+};
 </script>
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+<script defer id="MathJax-script"
+  src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js">
 </script>
 
     
@@ -45,10 +35,6 @@ MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
     <meta property="og:title" content="Research" />
     <meta property="twitter:title" content="Research" />
     
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="/style.css" />
     <link rel="alternate" type="application/rss+xml" title="Charlene Weiß - Postdoctoral researcher in discrete mathematics" href="/feed.xml" />
@@ -204,15 +190,11 @@ Bachelor’s thesis, Otto von Guericke University Magdeburg, Germany, 2014.</p>
 
     </div>
 
-    <div class="wrapper">
     <div class="wrapper-footer">
         <footer class="footer">
-		<font color="#ffffff">
 			<p>&copy; 2026 by Charlene Weiß <small> (she/her) </small> </p>
 			<p>Last Updated: May 2026 </p>
-		</font>
         </footer>
-    </div>
     </div>
   </body>
 </html>

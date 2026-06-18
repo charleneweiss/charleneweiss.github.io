@@ -123,20 +123,6 @@ a:hover, a:active {
   color: #008001;
 }
 
-.talk-meta {
-  color: #666;
-  font-size: 0.95em;
-  display: block;
-  margin-top: 0.15em;
-}
-
-.talk-note {
-  display: block;
-  margin-top: 0.25em;
-  color: #007700;
-  font-size: 0.95em;
-}
-
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
@@ -337,6 +323,7 @@ footer {
   padding: 20px 0;
   text-align: center;
   font-size: 14px;
+  color: #fff;
 }
 
 /*# sourceMappingURL=style.css.map */
