@@ -59,12 +59,21 @@ html {
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   background: var(--bg);
   font: 16px/1.65 $helvetica;
   color: var(--text);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+// Sticky footer: let the main content fill the viewport so the footer
+// always sits at the bottom, even on short pages (e.g. Contact).
+#main {
+  flex: 1 0 auto;
 }
 
 .container {
@@ -381,6 +390,7 @@ nav {
 }
 
 .wrapper-footer {
+  flex-shrink: 0;
   margin-top: 60px;
   background-color: var(--footer-bg);
 }
