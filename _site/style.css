@@ -211,17 +211,21 @@ img {
 }
 
 .profile-picture {
-  width: 300px;
+  float: right;
+  width: 240px;
   max-width: 100%;
+  margin: 0 0 1.5rem 2rem;
+  border-radius: 12px;
 }
-
 @media screen and (max-width: 640px) {
   .profile-picture {
+    float: none;
     display: block;
-    margin: 0 auto 1em;
+    margin: 0 auto 1.5em;
     width: 160px;
   }
 }
+
 ::-moz-selection {
   color: var(--selection-text);
   background: var(--selection-bg);
@@ -300,13 +304,13 @@ img {
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: 6px 0 0 0;
   color: var(--muted);
   font-size: 16px;
 }
 @media screen and (max-width: 640px) {
   .site-description {
-    margin: 3px 0;
+    margin: 6px 0 0 0;
   }
 }
 

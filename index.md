@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-<img align="right" src="/images/profile.png" class="profile-picture" width="300"/>
+<img src="/images/profile.png" class="profile-picture" alt="Charlene Weiß"/>
 
 Hi! I am a postdoctoral researcher in discrete mathematics. I was a fellow of the [DAAD–German Academic Exchange Service](https://www.daad.de/en/) working with [Krystal Guo](https://krystalguo.com) at the University of Amsterdam. Previously, I was an interim professor for Geometry at Otto von Guericke University Magdeburg. Before that, I was a postdoctoral researcher in discrete mathematics at Paderborn University, where I was part of the collaborative research center [Integral Structures in Geometry and Representation Theory](https://trr358.math.uni-bielefeld.de/Pages/aboutUs), funded by the [DFG—German Research Foundation](https://www.dfg.de/en/index.jsp).
 I earned my doctorate from Paderborn University under the supervision of Kai-Uwe Schmidt.
