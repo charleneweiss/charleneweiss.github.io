@@ -178,6 +178,11 @@ a:hover, a:active {
   hyphens: auto;
 }
 
+.justify {
+  text-align: justify;
+  hyphens: auto;
+}
+
 .date {
   color: var(--muted);
 }
@@ -389,6 +394,8 @@ nav a.active, nav a:hover, nav a:active {
   display: none !important;
   margin-top: 0.5em;
   color: var(--text);
+  text-align: justify;
+  hyphens: auto;
 }
 .abstract-content .date {
   color: var(--text);

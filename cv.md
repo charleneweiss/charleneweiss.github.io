@@ -26,6 +26,7 @@ Otto von Guericke University Magdeburg, Germany
 
 ## Service
 ____
+<div class="justify" markdown="1">
 From February 2023 to September 2024, I was the [equal opportunities officer](https://www.eim.uni-paderborn.de/en/faculty/faculty/organisation/equal-opportunities-officer) of the Faculty of Computer Science, Electrical Engineering and Mathematics at Paderborn University. 
 
 From October 2020 to September 2022, I organized the [Lernzentrum Mathematik](https://math.uni-paderborn.de/studium/lernzentrum-unterstuetzung-im-mathe-studium) together with [Lara Gildehaus](https://www.uni-paderborn.de/en/person/78771), which is a learning center that employs student assistants and offers support to mathematics students and preservice higher secondary teachers of mathematics.
@@ -34,3 +35,4 @@ From March 2018 to September 2020, I was part of the team for public relations a
 Moreover, I have been a mentor in the program [perspEktIve M](https://www.eim.uni-paderborn.de/en/faculty/studies/mentoring-program), which addresses female students at our faculty who are interested in research and doctoral studies.
  
 I also was a member in hiring committees for professors and in the student-assitants-committee of the Institute of Mathematics.
+</div>

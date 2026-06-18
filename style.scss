@@ -128,6 +128,12 @@ a {
   hyphens: auto;
 }
 
+// Reusable justified ("block") text wrapper (e.g. CV Service section).
+.justify {
+  text-align: justify;
+  hyphens: auto;
+}
+
 // Muted date labels for News / Travel & Talks entries.
 .date {
   color: var(--muted);
@@ -349,6 +355,8 @@ nav {
   display: none !important;
   margin-top: 0.5em;
   color: var(--text);
+  text-align: justify;
+  hyphens: auto;
 
   // Match the publication title color (overrides the inner muted .date span).
   .date {
