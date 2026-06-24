@@ -65,31 +65,31 @@ Bachelor's thesis, Otto von Guericke University Magdeburg, Germany, 2014.
 ## Talks
 
 *Codes, Designs, and the Power of Linear Programming* \
-  <span class="muted">  Korteweg-de-Vries Institute for Mathematics, University of Amsterdam, The Netherlands, Sept 2025.</span> <span class="tag tag-seminar">Invited seminar</span>
+  <span class="muted">  Korteweg-de-Vries Institute for Mathematics, University of Amsterdam, The Netherlands, Sept 2025.</span> <span class="tag tag-seminar">Invited seminar talk</span>
 
 *Codes and Designs in Classical Association Schemes* \
-  <span class="muted"> TerwilligerFest---Combinatorics around the q-Onsager algebra, Kranjska Gora, Slovenia, June 2025.</span> <span class="tag tag-invited">Invited conference</span>
+  <span class="muted"> TerwilligerFest---Combinatorics around the q-Onsager algebra, Kranjska Gora, Slovenia, June 2025.</span> <span class="tag tag-invited">Invited conference talk</span>
 
 *Codes and Designs in Polar Spaces* \
-  <span class="muted"> 5th Pythagorean conference, Kalamata, Greece, June 2025.</span> <span class="tag tag-invited">Invited plenary</span>
+  <span class="muted"> 5th Pythagorean conference, Kalamata, Greece, June 2025.</span> <span class="tag tag-invited">Invited plenary talk</span>
 
 *Codes and Designs* \
-  <span class="muted"> Institute for Algebra and Geometry, Otto von Guericke University Magdeburg, Germany, May 2025.</span> <span class="tag tag-seminar">Invited seminar</span>
+  <span class="muted"> Institute for Algebra and Geometry, Otto von Guericke University Magdeburg, Germany, May 2025.</span> <span class="tag tag-seminar">Invited seminar talk</span>
 
 *Existence of $t$-designs in polar spaces for all $t$*\
   <span class="muted">Combinatorics 2024, Carovigno (Br), Italy, June 2024.</span>
 
 *Codes und Designs* \
-  <span class="muted"> Department of Mathematics, Rostock University, Germany, May 2024.</span> <span class="tag tag-seminar">Invited seminar</span>
+  <span class="muted"> Department of Mathematics, Rostock University, Germany, May 2024.</span> <span class="tag tag-seminar">Invited seminar talk</span>
 
 *Existence of $t$-designs in polar spaces for all $t$*\
   <span class="muted">Combinatorial Constructions Conference (CCC), Dubrovnik, Croatia, Apr 2024.</span>
 
 *Codes and Steiner Systems* \
-  <span class="muted">Oberseminar Groups and Geometry, Bielefeld, Germany, Jan 2024.</span> <span class="tag tag-seminar">Invited seminar</span>
+  <span class="muted">Oberseminar Groups and Geometry, Bielefeld, Germany, Jan 2024.</span> <span class="tag tag-seminar">Invited seminar talk</span>
 
 *Codes and Designs in Polar Spaces* \
-  <span class="muted">On the mathematics of Frédéric Vanhove, Ghent, Belgium, Dec 2023.</span> <span class="tag tag-invited">Invited plenary</span>
+  <span class="muted">On the mathematics of Frédéric Vanhove, Ghent, Belgium, Dec 2023.</span> <span class="tag tag-invited">Invited plenary talk</span>
 
 *Existence of small ordered orthogonal arrays*\
   <span class="muted">RICCOTA2023, Rijeka, Croatia, Jul 2023.</span>
