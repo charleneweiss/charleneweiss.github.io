@@ -12,7 +12,7 @@ Fix a prime power $q$ and parameters $1\leq t\leq k\leq n$, the corresponding St
 </span></span>
 
 **The linear programming optimum for packings in classical association schemes** (joint with Kai-Uwe Schmidt)\
-preprint (2025), to appear in *Combinatorial Theory*.\
+preprint (2025), to appear in *Comb. Theory*.\
 [arXiv](https://arxiv.org/abs/2508.12806) &nbsp;&nbsp; <input type="checkbox" id="abstract-2" class="abstract-toggle" /><label for="abstract-2" class="abstract-link">Abstract</label><span class="abstract-content"><span class="muted">
 Association schemes are central objects in algebraic combinatorics, with the classical schemes lying at their core. These classical association schemes essentially consist of the Hamming and Johnson schemes, and their $q$-analogs: bilinear forms scheme, alternating bilinear forms scheme, Hermitian forms scheme, $q$-Johnson scheme, and polar space schemes. Each of them gives rise to a distance-regular graph on a vertex set $X$, naturally endowed with the path metric. We study $d$-codes in these schemes, that is, subsets $Y$ of $X$ in which every pair of distinct elements has path distance at least $d$. A powerful tool for deriving upper bounds on the size of $d$-codes is the linear programming method. In the case of the Hamming and Johnson schemes, the linear program has been studied since the 1970s, but its optimum is still unknown. We determine the optimum of the linear program for nearly all classical association schemes distinct from the Hamming and Johnson schemes. As a corollary, we obtain upper bounds on $t$-intersecting sets in classical association schemes, providing new proofs of several known results and, in particular, improving earlier bounds on $t$-intersecting sets of generators in polar spaces. These results can be viewed as analogs of the classical Erdős-Ko-Rado Theorem in extremal set theory. Our proofs draw on techniques from algebraic combinatorics and the duality theory of linear programming.
 </span></span>
@@ -24,7 +24,7 @@ A finite classical polar space of rank $n$ consists of the totally isotropic sub
 </span></span>
 
 **Packings and Steiner systems in polar spaces** (joint with Kai-Uwe Schmidt)\
-*Combinatorial Theory*, 3(1), 2023.\
+*Comb. Theory*, 3(1), 2023.\
 [Journal](https://escholarship.org/uc/item/83g3149p#main) &nbsp;&nbsp; [arXiv](https://arxiv.org/abs/2203.06709v2) &nbsp;&nbsp; <input type="checkbox" id="abstract-4" class="abstract-toggle" /><label for="abstract-4" class="abstract-link">Abstract</label><span class="abstract-content"><span class="muted">
 A finite classical polar space of rank $n$ consists of the totally isotropic subspaces of a finite vector space equipped with a nondegenerate form such that $n$ is the maximal dimension of such a subspace. A $t$-Steiner system in a finite classical polar space of rank $n$ is a collection $Y$ of totally isotropic $n$-spaces such that each totally isotropic $t$-space is contained in exactly one member of $Y$. Nontrivial examples are known only for $t=1$ and $t=n-1$. We give an almost complete classification of such $t$-Steiner systems, showing that such objects can only exist in some corner cases. This classification result arises from a more general result on packings in polar spaces.
 </span></span>
@@ -63,6 +63,9 @@ Bachelor's thesis, Otto von Guericke University Magdeburg, Germany, 2014.
 <br/>
 
 ## Talks
+
+*Codes and Designs in Polar Spaces* \
+  <span class="muted"> Finite Geometry, Combinatorics, Boolean Functions and their Links, Magdeburg, Germany, Sept 2026.</span> <span class="tag tag-invited">Invited plenary talk</span>
 
 *Codes, Designs, and the Power of Linear Programming* \
   <span class="muted">  Korteweg-de-Vries Institute for Mathematics, University of Amsterdam, The Netherlands, Sept 2025.</span> <span class="tag tag-seminar">Invited seminar talk</span>
